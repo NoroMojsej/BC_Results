@@ -1,0 +1,1303 @@
+Index,Start Time,End Time,Start Time (sec),Text,Movie
+0,0:3:12,0:3:14,192,Hi. I've got an appointment with Mr. Ullman.,The Shining
+1,0:3:15,0:3:17,195,My name is Jack Torrance.,The Shining
+2,0:3:17,0:3:19,197,His office is the first door on the left.,The Shining
+3,0:3:20,0:3:21,200,Thank you.,The Shining
+4,0:3:38,0:3:39,218,Mr. Ullman?,The Shining
+5,0:3:39,0:3:40,219,I'm Jack Torrance.,The Shining
+6,0:3:41,0:3:43,221,"Come on in, Jack.",The Shining
+7,0:3:44,0:3:46,224, Very nice to meet you.  Nice to meet you.,The Shining
+8,0:3:46,0:3:48,226,"This is my secretary, Susie.",The Shining
+9,0:3:48,0:3:51,228," Susie, how do you do?  Any trouble finding us?",The Shining
+10,0:3:51,0:3:54,231,No problem at all. I made the trip in 31/2 hours.,The Shining
+11,0:3:54,0:3:56,234,That's very good time.,The Shining
+12,0:3:56,0:3:58,236,"Sit down a minute, Jack.",The Shining
+13,0:3:58,0:4:0,238,Just make yourself at home.,The Shining
+14,0:4:0,0:4:1,240,Like some coffee?,The Shining
+15,0:4:2,0:4:4,242,"If you're having some, I wouldn't mind. Thanks.",The Shining
+16,0:4:4,0:4:5,244, Susie.  Sure.,The Shining
+17,0:4:6,0:4:7,246,And ask Bill Watson to join us.,The Shining
+18,0:4:7,0:4:9,247,"Yes, I will.",The Shining
+19,0:4:20,0:4:21,260,Mom?,The Shining
+20,0:4:22,0:4:23,262,Yeah?,The Shining
+21,0:4:23,0:4:27,263,Do you really want to go and live in that hotel for the winter?,The Shining
+22,0:4:28,0:4:29,268,Sure I do.,The Shining
+23,0:4:29,0:4:31,269,It'll be lots of fun.,The Shining
+24,0:4:33,0:4:35,273,Yeah. I guess so.,The Shining
+25,0:4:35,0:4:39,275,"Anyway, there's hardly anybody to play with around here.",The Shining
+26,0:4:40,0:4:44,280,I know. It always takes a little time to make new friends.,The Shining
+27,0:4:45,0:4:48,285,"Yeah, I guess so.",The Shining
+28,0:4:48,0:4:49,288,What about Tony?,The Shining
+29,0:4:50,0:4:52,290,"He's looking forward to the hotel, I bet.",The Shining
+30,0:4:53,0:4:55,293,"No, I ain't, Mrs. Torrance.",The Shining
+31,0:4:55,0:4:58,295,"Now, come on, Tony. Don't be silly.",The Shining
+32,0:4:58,0:5:0,298,I don't want to go there.,The Shining
+33,0:5:1,0:5:3,301,How come you don't want to go?,The Shining
+34,0:5:3,0:5:5,303,I just don't.,The Shining
+35,0:5:5,0:5:7,305,Let's just wait and see.,The Shining
+36,0:5:8,0:5:10,308,We're all going to have a real good time.,The Shining
+37,0:5:12,0:5:14,312,"Bill, I'd like you to meet Jack Torrance.",The Shining
+38,0:5:14,0:5:16,314,"How do you do, Bill?",The Shining
+39,0:5:16,0:5:18,316, Nice to meet you.  Pleasure to meet you.,The Shining
+40,0:5:18,0:5:20,318,"Grab a chair, Bill. Join in.",The Shining
+41,0:5:20,0:5:25,320,Jack is going to take care of the Overlook for us this winter.,The Shining
+42,0:5:25,0:5:28,325,I'd like you to take him around soon as we're through.,The Shining
+43,0:5:28,0:5:29,328,Fine.,The Shining
+44,0:5:30,0:5:31,330,Jack is a schoolteacher.,The Shining
+45,0:5:32,0:5:34,332,Formerly a schoolteacher.,The Shining
+46,0:5:34,0:5:36,334,What line of work are you in now?,The Shining
+47,0:5:36,0:5:37,336,I'm a writer.,The Shining
+48,0:5:38,0:5:41,338,Teaching's been more or less a way of making ends meet.,The Shining
+49,0:5:41,0:5:43,341,This ought to be quite a change for you.,The Shining
+50,0:5:44,0:5:46,344,I'm looking for a change.,The Shining
+51,0:5:46,0:5:50,346,"Our people in Denver recommended Jack very highly, and for once...",The Shining
+52,0:5:50,0:5:52,350,...I agree with them.,The Shining
+53,0:5:52,0:5:54,352,"Let's see, where were we?",The Shining
+54,0:5:54,0:5:57,354,I was about to explain...,The Shining
+55,0:5:57,0:6:1,357,...that our season here runs from May 15th to October 30th.,The Shining
+56,0:6:2,0:6:5,362,Then we close down completely until the following May.,The Shining
+57,0:6:5,0:6:8,365,Do you mind if I ask why you do that?,The Shining
+58,0:6:8,0:6:12,368,It seems to me that the skiing up here would be fantastic.,The Shining
+59,0:6:12,0:6:15,372,It would be. The problem is the enormous cost...,The Shining
+60,0:6:15,0:6:17,375,...it would be to keep the road to Sidewinder open.,The Shining
+61,0:6:18,0:6:20,378,It's a 25mile stretch of road.,The Shining
+62,0:6:20,0:6:22,380,It gets 20 feet of snow during the winter.,The Shining
+63,0:6:22,0:6:26,382,There's just no way to make it economically feasible...,The Shining
+64,0:6:26,0:6:28,386,...to keep it clear.,The Shining
+65,0:6:28,0:6:30,388,When the place was built in 1907...,The Shining
+66,0:6:31,0:6:33,391,...there was very little interest in winter sports.,The Shining
+67,0:6:33,0:6:38,393,This site was chosen for its seclusion and scenic beauty.,The Shining
+68,0:6:38,0:6:41,398,It's certainly got plenty of that.,The Shining
+69,0:6:41,0:6:42,401,That's right.,The Shining
+70,0:6:43,0:6:45,403,Did they give you any idea in Denver...,The Shining
+71,0:6:46,0:6:47,406,...about what the job entails?,The Shining
+72,0:6:48,0:6:50,408,Only in a very general way.,The Shining
+73,0:6:52,0:6:55,412,The winters can be fantastically cruel.,The Shining
+74,0:6:55,0:6:58,415,The basic idea is to cope with the very costly damage...,The Shining
+75,0:6:58,0:7:0,418,...and depreciation which can occur.,The Shining
+76,0:7:1,0:7:3,421,This consists mainly of running the boiler...,The Shining
+77,0:7:3,0:7:7,423,...heating different parts of the hotel on a daily rotating basis...,The Shining
+78,0:7:7,0:7:10,427,...repairing damage as it occurs...,The Shining
+79,0:7:10,0:7:13,430,...and doing repairs so the elements can't get a foothold.,The Shining
+80,0:7:14,0:7:16,434,That sounds fine to me.,The Shining
+81,0:7:17,0:7:20,437,"Physically, it's not a very demanding job.",The Shining
+82,0:7:20,0:7:23,440,The only thing that can get a bit trying here during the winter...,The Shining
+83,0:7:23,0:7:26,443,...is a tremendous sense of isolation.,The Shining
+84,0:7:27,0:7:32,447,That just happens to be exactly what I'm looking for.,The Shining
+85,0:7:32,0:7:35,452,I'm outlining a new writing project.,The Shining
+86,0:7:36,0:7:39,456,Five months of peace is just what I want.,The Shining
+87,0:7:40,0:7:41,460,"That's very good, Jack.",The Shining
+88,0:7:42,0:7:45,462,"Because, for some people...",The Shining
+89,0:7:45,0:7:47,465,...solitude...,The Shining
+90,0:7:47,0:7:49,467,...and isolation...,The Shining
+91,0:7:50,0:7:52,470,"...can, of itself, become a problem.",The Shining
+92,0:7:53,0:7:54,473,Not for me.,The Shining
+93,0:7:55,0:7:58,475,How about your wife and son? Do you think they'll take to it?,The Shining
+94,0:8:0,0:8:1,480,They'll love it.,The Shining
+95,0:8:1,0:8:2,481,Great.,The Shining
+96,0:8:5,0:8:8,485,Before I turn you over to Bill...,The Shining
+97,0:8:9,0:8:12,489,...there's one other thing I think we should talk about.,The Shining
+98,0:8:12,0:8:14,492,Not to sound melodramatic...,The Shining
+99,0:8:14,0:8:17,494,...but it's been known to give a few people...,The Shining
+100,0:8:17,0:8:19,497,...second thoughts about the job.,The Shining
+101,0:8:20,0:8:21,500,I'm intrigued.,The Shining
+102,0:8:22,0:8:24,502,I don't suppose they said anything in Denver...,The Shining
+103,0:8:24,0:8:28,504,...about the tragedy we had up here during the winter of 1970.,The Shining
+104,0:8:29,0:8:31,509,I don't believe they did.,The Shining
+105,0:8:33,0:8:35,513,My predecessor in this job...,The Shining
+106,0:8:36,0:8:39,516,...hired a man named Charles Grady as the winter caretaker.,The Shining
+107,0:8:39,0:8:43,519,He came up with his wife and 2 little girls of about 8 and 10.,The Shining
+108,0:8:43,0:8:46,523,"He had a good employment record, good references.",The Shining
+109,0:8:46,0:8:48,526,"And from what I've been told, he seemed...",The Shining
+110,0:8:49,0:8:51,529,...like a completely normal individual.,The Shining
+111,0:8:51,0:8:54,531,But at some point during the winter...,The Shining
+112,0:8:54,0:8:58,534,...he must have suffered some kind of a complete mental breakdown.,The Shining
+113,0:8:58,0:9:0,538,He ran amuck...,The Shining
+114,0:9:4,0:9:6,544,...and killed his family with an ax.,The Shining
+115,0:9:7,0:9:12,547,"Stacked them neatly in a room in the west wing, and then...",The Shining
+116,0:9:13,0:9:16,553,...he put both barrels of his shotgun in his mouth.,The Shining
+117,0:9:18,0:9:19,558,The police thought...,The Shining
+118,0:9:20,0:9:24,560,...that it was what the oldtimers used to call cabin fever.,The Shining
+119,0:9:24,0:9:27,564,A kind of claustrophobic reaction which can occur...,The Shining
+120,0:9:27,0:9:31,567,...when people are shut in together over long periods of time.,The Shining
+121,0:9:36,0:9:38,576,That is...,The Shining
+122,0:9:38,0:9:39,578,...quite a story.,The Shining
+123,0:9:41,0:9:42,581,"Yeah, it is.",The Shining
+124,0:9:43,0:9:47,583,It's still hard for me to believe it actually happened here.,The Shining
+125,0:9:47,0:9:49,587,But it did.,The Shining
+126,0:9:50,0:9:54,590,I think you can appreciate why I wanted to tell you about it.,The Shining
+127,0:9:55,0:9:57,595,I certainly can.,The Shining
+128,0:9:58,0:10:0,598,I also understand why your people in Denver...,The Shining
+129,0:10:1,0:10:3,601,...left it for you to tell me.,The Shining
+130,0:10:4,0:10:7,604,"Obviously, some people can be put off...",The Shining
+131,0:10:7,0:10:11,607,...from staying in a place where something like that happened.,The Shining
+132,0:10:11,0:10:16,611,You can rest assured that's not going to happen with me.,The Shining
+133,0:10:16,0:10:20,616,And as far as my wife is concerned...,The Shining
+134,0:10:20,0:10:24,620,...I'm sure she'll be absolutely fascinated when I tell her.,The Shining
+135,0:10:24,0:10:27,624,She's a confirmed ghost story...,The Shining
+136,0:10:27,0:10:30,627,...and horror film addict.,The Shining
+137,0:10:36,0:10:39,636,"Tony, do you think Dad'll get the job?",The Shining
+138,0:10:41,0:10:43,641,He already did.,The Shining
+139,0:10:43,0:10:47,643,He's going to phone Wendy up in a few minutes to tell her.,The Shining
+140,0:11:2,0:11:5,662," Hi, babe.  Hi, hon. How's it going?",The Shining
+141,0:11:5,0:11:8,665,Great. I'm at the hotel and I still have a lot to do.,The Shining
+142,0:11:9,0:11:12,669,I don't think I can get home before 9 or 10.,The Shining
+143,0:11:12,0:11:13,672,Sounds like you got the job.,The Shining
+144,0:11:14,0:11:16,674,Right. It's a beautiful place.,The Shining
+145,0:11:17,0:11:19,677,You and Danny are going to love it.,The Shining
+146,0:11:20,0:11:23,680,"Tony, why don't you want to go to the hotel?",The Shining
+147,0:11:23,0:11:25,683,I don't know.,The Shining
+148,0:11:26,0:11:30,686,"You do too know. Now come on, tell me.",The Shining
+149,0:11:30,0:11:32,690,I don't want to.,The Shining
+150,0:11:33,0:11:34,693,Please.,The Shining
+151,0:11:35,0:11:37,695,No.,The Shining
+152,0:11:37,0:11:39,697,"Now, Tony, tell me.",The Shining
+153,0:12:9,0:12:11,729,"Now, hold your eyes still so I can see.",The Shining
+154,0:12:16,0:12:18,736,That's good. Now the other one.,The Shining
+155,0:12:19,0:12:21,739,Good boy.,The Shining
+156,0:12:28,0:12:30,748,"Now, Danny...",The Shining
+157,0:12:30,0:12:32,750,...when you were brushing your teeth...,The Shining
+158,0:12:32,0:12:35,752,...do you remember if you smelled anything funny...,The Shining
+159,0:12:35,0:12:40,755,"...or saw any bright, flashing lights or anything at all strange?",The Shining
+160,0:12:43,0:12:44,763,No.,The Shining
+161,0:12:45,0:12:48,765,Do you remember when you were brushing your teeth?,The Shining
+162,0:12:48,0:12:50,768,Yes.,The Shining
+163,0:12:51,0:12:54,771,What's the next thing you remember after you were brushing your teeth?,The Shining
+164,0:12:59,0:13:1,779,"My mom was saying, ""Wake up. Wake up, Danny, wake up.""",The Shining
+165,0:13:6,0:13:8,786,Can you remember what you were doing...,The Shining
+166,0:13:8,0:13:11,788,...just before you started brushing your teeth?,The Shining
+167,0:13:13,0:13:15,793,Talking to Tony.,The Shining
+168,0:13:16,0:13:18,796,Is Tony one of your animals?,The Shining
+169,0:13:19,0:13:22,799,No. He's a little boy that lives in my mouth.,The Shining
+170,0:13:22,0:13:25,802,Tony's his imaginary friend.,The Shining
+171,0:13:28,0:13:31,808,"If you were to open your mouth now, could I see Tony?",The Shining
+172,0:13:34,0:13:35,814,Why not?,The Shining
+173,0:13:36,0:13:38,816,Because he hides.,The Shining
+174,0:13:39,0:13:40,819,Where does he go?,The Shining
+175,0:13:42,0:13:43,822,To my stomach.,The Shining
+176,0:13:45,0:13:48,825,Does Tony ever tell you to do things?,The Shining
+177,0:13:52,0:13:55,832,I don't want to talk about Tony anymore.,The Shining
+178,0:13:58,0:13:59,838,That's fine.,The Shining
+179,0:14:0,0:14:2,840,"All right, Danny.",The Shining
+180,0:14:2,0:14:5,842,I'm going to ask you to do me a favor...,The Shining
+181,0:14:6,0:14:9,846,...and stay quietly in bed for the rest of the day. Okay?,The Shining
+182,0:14:9,0:14:10,849,Do I have to?,The Shining
+183,0:14:10,0:14:13,850,Yes. I'd like you to.,The Shining
+184,0:14:13,0:14:16,853,We're going in the other room for a few minutes and talk.,The Shining
+185,0:14:16,0:14:18,856,I'll come back and check on you.,The Shining
+186,0:14:26,0:14:29,866, Shall we go into the living room?  Yes.,The Shining
+187,0:14:33,0:14:34,873, Please.  Thank you.,The Shining
+188,0:14:38,0:14:43,878,"Mrs. Torrance, I don't think you have anything to worry about.",The Shining
+189,0:14:43,0:14:47,883,I'm quite sure there's nothing physically wrong with Danny.,The Shining
+190,0:14:52,0:14:55,892,He seems absolutely fine now.,The Shining
+191,0:14:55,0:14:56,895,But you should've seen him.,The Shining
+192,0:14:57,0:14:58,897,I know.,The Shining
+193,0:14:58,0:15:0,898,Kids can scare you to death.,The Shining
+194,0:15:0,0:15:3,900,"But believe me, these episodes are not at all uncommon.",The Shining
+195,0:15:3,0:15:5,903,And they look much worse than they are.,The Shining
+196,0:15:6,0:15:9,906,But what was the matter with him?,The Shining
+197,0:15:9,0:15:13,909,"Most of the time, these episodes with kids are never explained.",The Shining
+198,0:15:13,0:15:18,913,They're brought on by emotional factors and rarely occur again.,The Shining
+199,0:15:19,0:15:22,919,They're more akin to autohypnosis...,The Shining
+200,0:15:22,0:15:25,922,...a kind of selfinduced trance.,The Shining
+201,0:15:25,0:15:27,925,"If it reoccurs, which I doubt...",The Shining
+202,0:15:28,0:15:31,928,...we can always think about having some tests done.,The Shining
+203,0:15:34,0:15:36,934,I'm sure you're right.,The Shining
+204,0:15:38,0:15:40,938,Have you been in Boulder long?,The Shining
+205,0:15:41,0:15:42,941,Only about three months.,The Shining
+206,0:15:43,0:15:46,943,We're from Vermont. My husband was teaching school there.,The Shining
+207,0:15:48,0:15:52,948,Did the appearance of Danny's imaginary friend...,The Shining
+208,0:15:52,0:15:53,952,Tony.,The Shining
+209,0:15:53,0:15:57,953,Did Tony's first appearance happen to coincide with your arrival here?,The Shining
+210,0:16:0,0:16:2,960,Let's see...,The Shining
+211,0:16:2,0:16:5,962,I guess Danny started talking to Tony...,The Shining
+212,0:16:5,0:16:8,965,...about the time we put him in nursery school.,The Shining
+213,0:16:8,0:16:11,968,Did he adjust well to school?,The Shining
+214,0:16:13,0:16:15,973,He didn't like it too much at first.,The Shining
+215,0:16:15,0:16:18,975,"Then he had an injury, so we kept him out for a while and...",The Shining
+216,0:16:20,0:16:24,980,I guess that's about when I first noticed he was talking to Tony.,The Shining
+217,0:16:25,0:16:27,985,What sort of injury did he have?,The Shining
+218,0:16:28,0:16:30,988,He dislocated his shoulder.,The Shining
+219,0:16:30,0:16:33,990,How did he manage to do that?,The Shining
+220,0:16:36,0:16:39,996,"It was just one of those things, you know.",The Shining
+221,0:16:39,0:16:41,999,Purely an accident.,The Shining
+222,0:16:42,0:16:45,1002,My husband had been drinking...,The Shining
+223,0:16:45,0:16:49,1005,...and he came home about three hours late.,The Shining
+224,0:16:49,0:16:53,1009,So he wasn't exactly in the greatest mood that night.,The Shining
+225,0:16:54,0:16:59,1014,And Danny had scattered some of his school papers all over the room...,The Shining
+226,0:16:59,0:17:3,1019,...and my husband grabbed his arm to pull him away from them.,The Shining
+227,0:17:4,0:17:7,1024,It's just the sort of thing you do 100 times with a child...,The Shining
+228,0:17:7,0:17:9,1027,"...you know, in a park or in the street.",The Shining
+229,0:17:10,0:17:13,1030,But on this particular occasion...,The Shining
+230,0:17:13,0:17:16,1033,...my husband just used too much strength...,The Shining
+231,0:17:16,0:17:18,1036,...and he injured Danny's arm.,The Shining
+232,0:17:21,0:17:26,1041,"Anyway, something good did come out of it all because he said...",The Shining
+233,0:17:26,0:17:29,1046,"...""Wendy, I'm never going to touch another drop.",The Shining
+234,0:17:29,0:17:31,1049,"And if I do, you can leave me.""",The Shining
+235,0:17:31,0:17:32,1051,And he didn't.,The Shining
+236,0:17:33,0:17:37,1053,He hasn't had any alcohol in 5 months.,The Shining
+237,0:18:4,0:18:8,1084,We must really be high up. The air feels so different.,The Shining
+238,0:18:14,0:18:15,1094,Dad?,The Shining
+239,0:18:18,0:18:20,1098,I'm hungry.,The Shining
+240,0:18:21,0:18:24,1101,You should've eaten your breakfast.,The Shining
+241,0:18:25,0:18:28,1105,We'll get you something as soon as we get to the hotel.,The Shining
+242,0:18:28,0:18:30,1108,"Okay, Mom.",The Shining
+243,0:18:31,0:18:35,1111,Wasn't it around here that the Donner party got snowbound?,The Shining
+244,0:18:37,0:18:41,1117,"I think that was farther west, in the Sierras.",The Shining
+245,0:18:42,0:18:45,1122,What was the Donner party?,The Shining
+246,0:18:46,0:18:51,1126,They were a party of settlers in covered wagon times.,The Shining
+247,0:18:51,0:18:54,1131,They got snowbound one winter in the mountains.,The Shining
+248,0:18:54,0:18:59,1134,They had to resort to cannibalism in order to stay alive.,The Shining
+249,0:19:0,0:19:3,1140,You mean they ate each other up?,The Shining
+250,0:19:3,0:19:6,1143,"They had to, in order to survive.",The Shining
+251,0:19:6,0:19:7,1146,Jack.,The Shining
+252,0:19:8,0:19:9,1148,"Don't worry, Mom.",The Shining
+253,0:19:9,0:19:13,1149,I know all about cannibalism. I saw it on TV.,The Shining
+254,0:19:13,0:19:16,1153,"See, it's okay.",The Shining
+255,0:19:16,0:19:19,1156,He saw it on the television.,The Shining
+256,0:19:49,0:19:51,1189, What time does the plane leave?  8:30.,The Shining
+257,0:19:52,0:19:54,1192,That gives us plenty of time to go over everything.,The Shining
+258,0:19:54,0:19:56,1194," Goodbye, Mr. Ullman.  Bye.",The Shining
+259,0:19:57,0:20:0,1197,Good morning. I hope you haven't been waiting too long.,The Shining
+260,0:20:0,0:20:3,1200,No problem. We had time to grab a bite to eat.,The Shining
+261,0:20:3,0:20:6,1203,Good. Glad you made it before they shut down the kitchen.,The Shining
+262,0:20:6,0:20:8,1206,Is your family having a look around?,The Shining
+263,0:20:8,0:20:11,1208,"No, my son's discovered the games room.",The Shining
+264,0:20:11,0:20:14,1211, Has your luggage been brought in?  Right there.,The Shining
+265,0:20:15,0:20:17,1215,In view of all we have to cover today...,The Shining
+266,0:20:17,0:20:21,1217,...I suggest we have a quick look at your apartment and get started.,The Shining
+267,0:20:21,0:20:24,1221,Have the Torrances' things brought to their apartment.,The Shining
+268,0:20:24,0:20:27,1224,I'd better collect my family first.,The Shining
+269,0:20:35,0:20:37,1235,This is our Colorado Lounge.,The Shining
+270,0:20:38,0:20:40,1238,It's beautiful.,The Shining
+271,0:20:40,0:20:42,1240,My God!,The Shining
+272,0:20:42,0:20:45,1242,"This place is fantastic, isn't it, hon?",The Shining
+273,0:20:45,0:20:46,1245,It sure is.,The Shining
+274,0:20:47,0:20:49,1247,I've never seen anything like this before.,The Shining
+275,0:20:51,0:20:53,1251,Are all these Indian designs authentic?,The Shining
+276,0:20:53,0:20:55,1253,I believe they're based...,The Shining
+277,0:20:55,0:20:58,1255,...mainly on Navajo and Apache motifs.,The Shining
+278,0:20:58,0:21:0,1258,They're really gorgeous.,The Shining
+279,0:21:0,0:21:1,1260,As a matter of fact...,The Shining
+280,0:21:2,0:21:5,1262,...this is probably the most gorgeous hotel I've ever seen.,The Shining
+281,0:21:5,0:21:8,1265,This old place has had an illustrious past.,The Shining
+282,0:21:8,0:21:11,1268,"In its heyday, it was a stopping place for the jet setters...",The Shining
+283,0:21:12,0:21:15,1272,...even before anybody knew what a jet set was.,The Shining
+284,0:21:15,0:21:18,1275,We had four presidents who stayed here.,The Shining
+285,0:21:18,0:21:19,1278,Lots of movie stars.,The Shining
+286,0:21:20,0:21:21,1280,Royalty?,The Shining
+287,0:21:21,0:21:23,1281,All the best people.,The Shining
+288,0:22:17,0:22:19,1337,This is the staff wing of the hotel.,The Shining
+289,0:22:20,0:22:24,1340,None of the other bedrooms are heated during the winter.,The Shining
+290,0:22:24,0:22:27,1344," Goodbye, Mr. Ullman.  Goodbye, girls.",The Shining
+291,0:22:27,0:22:29,1347,And here are your quarters.,The Shining
+292,0:22:29,0:22:32,1349,"Living room, bedroom, bathroom.",The Shining
+293,0:22:32,0:22:35,1352,And a small bedroom for your son.,The Shining
+294,0:22:38,0:22:40,1358,Perfect for a child.,The Shining
+295,0:22:47,0:22:50,1367,"Well, then. Place is very nicely selfcontained.",The Shining
+296,0:22:50,0:22:52,1370,Easy to keep.,The Shining
+297,0:22:55,0:22:56,1375,Cozy.,The Shining
+298,0:22:56,0:22:58,1376,"Yes, very cozy for a family.",The Shining
+299,0:22:59,0:23:0,1379,If you feel like spreading out...,The Shining
+300,0:23:0,0:23:3,1380,...you have the rest of the hotel to move around in.,The Shining
+301,0:23:5,0:23:7,1385,"Well, it's very...",The Shining
+302,0:23:8,0:23:9,1388,...homey.,The Shining
+303,0:23:12,0:23:14,1392,This is our famous hedge maze.,The Shining
+304,0:23:14,0:23:19,1394,It's quite an attraction here. The walls are 13 feet high...,The Shining
+305,0:23:19,0:23:21,1399,...and the hedge is as old as the hotel itself.,The Shining
+306,0:23:21,0:23:24,1401,"A lot of fun, but I wouldn't want to go in there...",The Shining
+307,0:23:24,0:23:27,1404,...unless I had an hour to spare to find my way out.,The Shining
+308,0:23:29,0:23:31,1409,When was the Overlook built?,The Shining
+309,0:23:32,0:23:34,1412,Construction started in 1907.,The Shining
+310,0:23:34,0:23:36,1414,It was finished in 1909.,The Shining
+311,0:23:36,0:23:39,1416,The site's supposed to be on an Indian burial ground.,The Shining
+312,0:23:39,0:23:41,1419,They actually had to repel...,The Shining
+313,0:23:41,0:23:44,1421,...a few Indian attacks as they were building it.,The Shining
+314,0:23:45,0:23:47,1425,That's our Snowcat.,The Shining
+315,0:23:47,0:23:49,1427,Can you both drive a car?,The Shining
+316,0:23:50,0:23:53,1430,That's fine. Basically the Snowcat operates very much like a car.,The Shining
+317,0:23:54,0:23:56,1434,It won't take you long to get the hang of it.,The Shining
+318,0:23:57,0:24:1,1437,"As a matter of fact, we brought a decorator in from Chicago...",The Shining
+319,0:24:1,0:24:4,1441,...just last year to refurbish this part of the hotel.,The Shining
+320,0:24:4,0:24:6,1444,He sure did a beautiful job.,The Shining
+321,0:24:6,0:24:9,1446,Pink and gold are my favorite colors.,The Shining
+322,0:24:10,0:24:12,1450,This is our Gold Ballroom.,The Shining
+323,0:24:13,0:24:15,1453,I'll say!,The Shining
+324,0:24:15,0:24:19,1455,We can accommodate up to 300 people here very comfortably.,The Shining
+325,0:24:19,0:24:22,1459,"Boy, we could really have a good party in this room.",The Shining
+326,0:24:22,0:24:26,1462,I'm afraid you won't do too well here unless you brought supplies.,The Shining
+327,0:24:26,0:24:29,1466,We remove the booze from the premises when we shut down.,The Shining
+328,0:24:30,0:24:33,1470,That reduces the insurance we normally have to carry.,The Shining
+329,0:24:33,0:24:34,1473,We don't drink.,The Shining
+330,0:24:34,0:24:35,1474,Then you're in luck.,The Shining
+331,0:24:36,0:24:40,1476,"Dick, come on over and say hello to Mr. and Mrs. Torrance.",The Shining
+332,0:24:40,0:24:42,1480,"This is Dick Hallorann, our head chef.",The Shining
+333,0:24:42,0:24:45,1482,"Mr. Hallorann, I'm Jack. This is my wife, Winifred.",The Shining
+334,0:24:45,0:24:47,1485,Glad to meet you.,The Shining
+335,0:24:47,0:24:50,1487,The Torrances will take care of the Overlook this winter.,The Shining
+336,0:24:50,0:24:54,1490,That's just great. How do you folks like our hotel so far?,The Shining
+337,0:24:54,0:24:56,1494,It's just wonderful.,The Shining
+338,0:24:56,0:24:57,1496,"Hi, Danny!",The Shining
+339,0:24:58,0:25:1,1498,I found him outside looking for you.,The Shining
+340,0:25:2,0:25:5,1502,Did you get tired of bombing the universe?,The Shining
+341,0:25:6,0:25:8,1506,Come on over here.,The Shining
+342,0:25:8,0:25:9,1508,"Thank you, Susie.",The Shining
+343,0:25:10,0:25:14,1510,I think it'd be good if you could show Mrs. Torrance the kitchen...,The Shining
+344,0:25:14,0:25:16,1514,...while I continue on with Jack.,The Shining
+345,0:25:16,0:25:18,1516,It would be a pleasure. Right this way.,The Shining
+346,0:25:18,0:25:20,1518,"Great. See you later, hon.",The Shining
+347,0:25:20,0:25:22,1520,"Bye, darling.",The Shining
+348,0:25:24,0:25:27,1524,"Mrs. Torrance, your husband introduced you as Winifred.",The Shining
+349,0:25:27,0:25:30,1527,"Now, are you a ""Winnie"", or a ""Freddie""?",The Shining
+350,0:25:30,0:25:31,1530,I'm a Wendy.,The Shining
+351,0:25:32,0:25:35,1532,Wendy. That's nice. That's the prettiest.,The Shining
+352,0:25:35,0:25:37,1535,"This is the kitchen, huh?",The Shining
+353,0:25:37,0:25:39,1537,This is it.,The Shining
+354,0:25:39,0:25:42,1539,"How do you like it, Danny? Is it big enough for you?",The Shining
+355,0:25:43,0:25:45,1543,It's the biggest place I ever seen.,The Shining
+356,0:25:45,0:25:47,1545,This whole place is such an enormous maze.,The Shining
+357,0:25:47,0:25:51,1547,I'll have to leave a trail of breadcrumbs every time I come in.,The Shining
+358,0:25:52,0:25:54,1552,Don't let it get you down.,The Shining
+359,0:25:54,0:25:57,1554,"It's big, but it ain't nothing but a kitchen.",The Shining
+360,0:25:57,0:25:59,1557,A lot of this stuff you'll never have to touch.,The Shining
+361,0:25:59,0:26:1,1559,I wouldn't know what to do with it if I did.,The Shining
+362,0:26:2,0:26:5,1562,"One thing for sure, you don't have to worry about food.",The Shining
+363,0:26:5,0:26:10,1565,You folks could eat here for a year and never have the same menu twice.,The Shining
+364,0:26:10,0:26:13,1570,Right here is our walkin freezer.,The Shining
+365,0:26:14,0:26:17,1574,This is where we keep all of our meat.,The Shining
+366,0:26:17,0:26:19,1577,You got 15 rib roasts...,The Shining
+367,0:26:19,0:26:22,1579,...30 tenpound bags of hamburger.,The Shining
+368,0:26:22,0:26:25,1582,"We got 12 turkeys, about 40 chickens...",The Shining
+369,0:26:25,0:26:28,1585,"...50 sirloin steaks, two dozen of pork roast...",The Shining
+370,0:26:28,0:26:31,1588,"...and 20 legs of lamb. Do you like lamb, Doc?",The Shining
+371,0:26:33,0:26:35,1593,"You don't? What's your favorite food, then?",The Shining
+372,0:26:35,0:26:37,1595,French fries and ketchup.,The Shining
+373,0:26:38,0:26:40,1598,"I think we can manage that too, Doc.",The Shining
+374,0:26:40,0:26:42,1600,"Come along, now. Watch your step.",The Shining
+375,0:26:48,0:26:50,1608,How'd you know we call him Doc?,The Shining
+376,0:26:50,0:26:54,1610," Beg your pardon?  Doc. You called Danny ""Doc"" twice.",The Shining
+377,0:26:54,0:26:56,1614,I did?,The Shining
+378,0:26:57,0:27:0,1617,"We call him Doc sometimes, like in the Bugs Bunny cartoons.",The Shining
+379,0:27:0,0:27:1,1620,But how did you know?,The Shining
+380,0:27:1,0:27:4,1621,I guess I probably heard you call him that.,The Shining
+381,0:27:4,0:27:6,1624,It's possible. But I honestly don't remember...,The Shining
+382,0:27:7,0:27:9,1627,...calling him that since we've been with you.,The Shining
+383,0:27:9,0:27:11,1629,"Anyway, he looks like a Doc, doesn't he?",The Shining
+384,0:27:13,0:27:14,1633,"What's up, Doc?",The Shining
+385,0:27:16,0:27:18,1636,"Now, this is the storeroom.",The Shining
+386,0:27:20,0:27:22,1640,In here is where we keep...,The Shining
+387,0:27:22,0:27:25,1642,...all the dried goods and the canned goods.,The Shining
+388,0:27:25,0:27:27,1645,We got canned fruits and vegetables...,The Shining
+389,0:27:28,0:27:31,1648,"...canned fish and meats, hot and cold cereals.",The Shining
+390,0:27:32,0:27:35,1652,"Post Toasties, Corn Flakes, Sugar Puffs...",The Shining
+391,0:27:35,0:27:39,1655,"...Rice Krispies, oatmeal, Wheatena and Cream of Wheat.",The Shining
+392,0:27:39,0:27:42,1659,You got a dozen jugs of black molasses.,The Shining
+393,0:27:42,0:27:45,1662,We got 60 boxes of dried milk...,The Shining
+394,0:27:53,0:27:55,1673,"How'd you like some ice cream, Doc?",The Shining
+395,0:27:58,0:28:0,1678,"Sociables, finger rolls...",The Shining
+396,0:28:0,0:28:1,1680,...and 7 kinds of what have you.,The Shining
+397,0:28:2,0:28:5,1682,"Now, we've got dried peaches, dried apricots...",The Shining
+398,0:28:5,0:28:8,1685,...dried raisins and dried prunes.,The Shining
+399,0:28:9,0:28:13,1689,"You know, you got to keep regular if you want to be happy.",The Shining
+400,0:28:16,0:28:17,1696, How're you getting on?  Fine.,The Shining
+401,0:28:18,0:28:21,1698,Can we borrow Mrs. Torrance? We're on our way to the basement.,The Shining
+402,0:28:21,0:28:23,1701,I promise we won't keep her very long.,The Shining
+403,0:28:24,0:28:27,1704,"No problem, Mr. Ullman. I was just getting to the ice cream.",The Shining
+404,0:28:27,0:28:29,1707,"You like ice cream, Doc?",The Shining
+405,0:28:30,0:28:31,1710,I thought you did.,The Shining
+406,0:28:31,0:28:34,1711,You folks mind if I give Danny some ice cream while we wait?,The Shining
+407,0:28:34,0:28:36,1714, Not at all.  We don't mind.,The Shining
+408,0:28:36,0:28:38,1716," Good.  Sound good to you, Doc?",The Shining
+409,0:28:39,0:28:41,1719,"Okay, you behave yourself.",The Shining
+410,0:28:44,0:28:46,1724,What kind of ice cream do you like?,The Shining
+411,0:28:46,0:28:47,1726,Chocolate.,The Shining
+412,0:28:47,0:28:50,1727,"Chocolate it shall be. Come on, son.",The Shining
+413,0:28:54,0:28:56,1734,"It's amazing, all this activity today.",The Shining
+414,0:28:57,0:28:59,1737,"The guests and some staff left yesterday, but the...",The Shining
+415,0:29:0,0:29:1,1740,...last day's always hectic.,The Shining
+416,0:29:1,0:29:4,1741,Everybody wants to be on their way as early as possible.,The Shining
+417,0:29:4,0:29:9,1744,"By 5:00 tonight, you'll never know anybody was ever here.",The Shining
+418,0:29:9,0:29:11,1749,"Just like a ghost ship, huh?",The Shining
+419,0:29:16,0:29:19,1756,Do you know how I knew your name was Doc?,The Shining
+420,0:29:26,0:29:28,1766,"You know what I'm talking about, don't you?",The Shining
+421,0:29:35,0:29:39,1775,I can remember when I was a little boy...,The Shining
+422,0:29:39,0:29:42,1779,...my grandmother and I could hold conversations...,The Shining
+423,0:29:42,0:29:46,1782,...entirely without ever opening our mouths.,The Shining
+424,0:29:47,0:29:49,1787,"She called it ""shining.""",The Shining
+425,0:29:51,0:29:53,1791,And for a long time I thought it was just the two of us...,The Shining
+426,0:29:54,0:29:56,1794,"...that had ""the shine"" to us.",The Shining
+427,0:29:57,0:30:0,1797,Just like you probably thought you was the only one.,The Shining
+428,0:30:1,0:30:2,1801,But there are other folks...,The Shining
+429,0:30:3,0:30:6,1803,"...though mostly they don't know it, or don't believe it.",The Shining
+430,0:30:11,0:30:13,1811,How long have you been able to do it?,The Shining
+431,0:30:19,0:30:21,1819,Why don't you want to talk about it?,The Shining
+432,0:30:26,0:30:28,1826,I'm not supposed to.,The Shining
+433,0:30:30,0:30:33,1830,Who says you ain't supposed to?,The Shining
+434,0:30:36,0:30:37,1836,Tony.,The Shining
+435,0:30:39,0:30:41,1839,Who's Tony?,The Shining
+436,0:30:43,0:30:47,1843,Tony's the little boy that lives in my mouth.,The Shining
+437,0:30:49,0:30:51,1849,Is Tony the one that...,The Shining
+438,0:30:51,0:30:53,1851,...tells you things?,The Shining
+439,0:30:57,0:31:0,1857,How does he tell you things?,The Shining
+440,0:31:1,0:31:6,1861,"It's like I go to sleep, and he shows me things.",The Shining
+441,0:31:6,0:31:10,1866,"But when I wake up, I can't remember everything.",The Shining
+442,0:31:12,0:31:15,1872,Does your mom and dad know about Tony?,The Shining
+443,0:31:19,0:31:21,1879,Do they know he tells you things?,The Shining
+444,0:31:22,0:31:25,1882,Tony told me never to tell them.,The Shining
+445,0:31:27,0:31:31,1887,Has Tony ever told you anything about this place?,The Shining
+446,0:31:31,0:31:33,1891,About the Overlook Hotel?,The Shining
+447,0:31:37,0:31:38,1897,I don't know.,The Shining
+448,0:31:39,0:31:42,1899,"Now think real hard, Doc.",The Shining
+449,0:31:42,0:31:43,1902,Think.,The Shining
+450,0:31:46,0:31:49,1906,Maybe he showed me something.,The Shining
+451,0:31:50,0:31:53,1910,Try to think of what it was.,The Shining
+452,0:31:56,0:31:59,1916,"Mr. Hallorann, are you scared of this place?",The Shining
+453,0:32:2,0:32:4,1922,Scared of nothing here.,The Shining
+454,0:32:5,0:32:6,1925,It's just that...,The Shining
+455,0:32:7,0:32:10,1927,"...you know, some places are like people.",The Shining
+456,0:32:11,0:32:12,1931,Some shine...,The Shining
+457,0:32:13,0:32:14,1933,...and some don't.,The Shining
+458,0:32:15,0:32:17,1935,I guess you could say the Overlook Hotel...,The Shining
+459,0:32:18,0:32:21,1938,...has something about it that's like shining.,The Shining
+460,0:32:24,0:32:26,1944,Is there something bad here?,The Shining
+461,0:32:38,0:32:40,1958,"You know, Doc, when something happens...",The Shining
+462,0:32:41,0:32:44,1961,...it can leave a trace of itself behind.,The Shining
+463,0:32:45,0:32:47,1965,"Say, like...",The Shining
+464,0:32:47,0:32:50,1967,...if someone burns toast.,The Shining
+465,0:32:52,0:32:57,1972,Maybe things that happen leave other kind of traces behind.,The Shining
+466,0:32:58,0:33:1,1978,Not things that anyone can notice.,The Shining
+467,0:33:1,0:33:6,1981,But things that people who shine can see.,The Shining
+468,0:33:7,0:33:11,1987,Just like they can see things that haven't happened yet...,The Shining
+469,0:33:13,0:33:17,1993,...sometimes they can see things that happened a long time ago.,The Shining
+470,0:33:19,0:33:21,1999,I think a lot of things happened right here...,The Shining
+471,0:33:22,0:33:25,2002,...in this particular hotel over the years.,The Shining
+472,0:33:26,0:33:28,2006,And not all of them was good.,The Shining
+473,0:33:32,0:33:34,2012,What about room 237?,The Shining
+474,0:33:38,0:33:40,2018,Room 237?,The Shining
+475,0:33:41,0:33:44,2021,"You're scared of room 237, ain't you?",The Shining
+476,0:33:46,0:33:47,2026,"No, I ain't.",The Shining
+477,0:33:49,0:33:53,2029,"Mr. Hallorann, what is in room 237?",The Shining
+478,0:33:54,0:33:55,2034,Nothing.,The Shining
+479,0:33:56,0:33:59,2036,There ain't nothing in room 237.,The Shining
+480,0:33:59,0:34:3,2039,But you ain't got no business going in there anyway.,The Shining
+481,0:34:3,0:34:5,2043,So stay out.,The Shining
+482,0:34:5,0:34:8,2045,You understand? Stay out!,The Shining
+483,0:35:47,0:35:49,2147,"Good morning, hon.",The Shining
+484,0:35:51,0:35:52,2151,Your breakfast is ready.,The Shining
+485,0:35:53,0:35:55,2153,What time is it?,The Shining
+486,0:35:55,0:35:57,2155,It's about 11:30.,The Shining
+487,0:35:59,0:36:0,2159,Jesus.,The Shining
+488,0:36:1,0:36:4,2161,I guess we've been staying up too late.,The Shining
+489,0:36:4,0:36:6,2164,I know it.,The Shining
+490,0:36:7,0:36:10,2167,"I made them just the way you like them, sunnyside up.",The Shining
+491,0:36:10,0:36:12,2170,Nice.,The Shining
+492,0:36:14,0:36:16,2174,It's really pretty outside.,The Shining
+493,0:36:16,0:36:19,2176,How about taking me for a walk after you finish your breakfast?,The Shining
+494,0:36:20,0:36:24,2180,I suppose I ought to try to do some writing first.,The Shining
+495,0:36:25,0:36:27,2185,Any ideas yet?,The Shining
+496,0:36:28,0:36:30,2188,Lots of ideas.,The Shining
+497,0:36:30,0:36:32,2190,No good ones.,The Shining
+498,0:36:32,0:36:34,2192,Something will come.,The Shining
+499,0:36:35,0:36:39,2195,It's just a matter of settling into the habit of writing every day.,The Shining
+500,0:36:40,0:36:42,2200,That's all it is.,The Shining
+501,0:36:44,0:36:47,2204,"It's really nice up here, isn't it?",The Shining
+502,0:36:47,0:36:48,2207,I love it.,The Shining
+503,0:36:49,0:36:51,2209,I really do.,The Shining
+504,0:36:51,0:36:54,2211,I've never been this happy or comfortable anywhere.,The Shining
+505,0:36:55,0:36:58,2215,It's amazing how fast you get used to such a big place.,The Shining
+506,0:36:59,0:37:2,2219,"I tell you, when we first came up here...",The Shining
+507,0:37:2,0:37:4,2222,...I thought it was kind of scary.,The Shining
+508,0:37:4,0:37:7,2224,I fell in love with it right away.,The Shining
+509,0:37:7,0:37:10,2227,When I came up here for my interview...,The Shining
+510,0:37:11,0:37:14,2231,...it was as though I'd been here before.,The Shining
+511,0:37:15,0:37:17,2235,"I mean, we all have moments of deja vu...",The Shining
+512,0:37:18,0:37:20,2238,...but this was ridiculous.,The Shining
+513,0:37:20,0:37:22,2240,It was almost as though I knew...,The Shining
+514,0:37:23,0:37:26,2243,...what was going to be around every corner.,The Shining
+515,0:37:59,0:38:3,2279,The loser has to keep America clean. How's that?,The Shining
+516,0:38:3,0:38:5,2283, All right.  And you're going to lose.,The Shining
+517,0:38:6,0:38:9,2286,And I'm going to get you. You'd better run fast!,The Shining
+518,0:38:14,0:38:15,2294,Look out!,The Shining
+519,0:38:15,0:38:17,2295,I'm coming in close.,The Shining
+520,0:38:17,0:38:20,2297,Loser has to keep America clean.,The Shining
+521,0:38:20,0:38:21,2300,Keep America clean.,The Shining
+522,0:38:23,0:38:24,2303,"Danny, you win.",The Shining
+523,0:38:24,0:38:27,2304,Let's take the rest of this walking.,The Shining
+524,0:38:29,0:38:31,2309,Give me your hand.,The Shining
+525,0:38:33,0:38:35,2313,Isn't it beautiful?,The Shining
+526,0:38:53,0:38:54,2333,Dead end.,The Shining
+527,0:39:52,0:39:53,2392,We made it.,The Shining
+528,0:39:54,0:39:55,2394,Isn't it beautiful?,The Shining
+529,0:40:17,0:40:19,2417,It's so pretty.,The Shining
+530,0:40:23,0:40:26,2423,I didn't think it was going to be this big. Did you?,The Shining
+531,0:40:37,0:40:40,2437,Rutherford was serving a life sentence...,The Shining
+532,0:40:40,0:40:42,2440,...for a 1968 shooting.,The Shining
+533,0:40:42,0:40:46,2442,And the search continues for that missing Aspen woman.,The Shining
+534,0:40:46,0:40:49,2446,24yearold Susan Robertson has been missing 10 days.,The Shining
+535,0:40:50,0:40:52,2450,She disappeared on a hunting trip with her husband.,The Shining
+536,0:40:52,0:40:55,2452,They may have to call off the search...,The Shining
+537,0:40:55,0:40:58,2455,...if a predicted snowstorm moves in tomorrow.,The Shining
+538,0:40:58,0:41:0,2458,It's so beautiful in Denver today...,The Shining
+539,0:41:0,0:41:2,2460,...it's hard to believe a snowstorm could be close.,The Shining
+540,0:41:3,0:41:5,2463,I want to go outside and lie in the sun...,The Shining
+541,0:41:5,0:41:9,2465,"...yet to our north, to our west, it is snowing and cold.",The Shining
+542,0:41:9,0:41:11,2469,And it's moving...,The Shining
+543,0:41:11,0:41:14,2471,...right here towards Colorado as we talk. It's incredible.,The Shining
+544,0:43:43,0:43:44,2623,"Hi, hon.",The Shining
+545,0:43:48,0:43:49,2628,How's it going?,The Shining
+546,0:43:52,0:43:53,2632,Fine.,The Shining
+547,0:43:55,0:43:56,2635,Get a lot written today?,The Shining
+548,0:44:4,0:44:6,2644,The weather forecast said it's going to snow tonight.,The Shining
+549,0:44:11,0:44:14,2651,What do you want me to do about it?,The Shining
+550,0:44:16,0:44:18,2656,"Come on, hon.",The Shining
+551,0:44:18,0:44:20,2658,Don't be so grouchy.,The Shining
+552,0:44:21,0:44:22,2661,I'm not...,The Shining
+553,0:44:22,0:44:24,2662,...being grouchy.,The Shining
+554,0:44:24,0:44:27,2664,I just want to finish my work.,The Shining
+555,0:44:30,0:44:32,2670,Okay. I understand.,The Shining
+556,0:44:33,0:44:35,2673,I'll come back later with a couple of sandwiches.,The Shining
+557,0:44:36,0:44:38,2676,Maybe you'll let me read something then.,The Shining
+558,0:44:41,0:44:42,2681,Wendy...,The Shining
+559,0:44:43,0:44:45,2683,...let me explain something to you.,The Shining
+560,0:44:46,0:44:50,2686,"When you come in and interrupt, you're breaking my concentration.",The Shining
+561,0:44:50,0:44:52,2690,You're distracting me...,The Shining
+562,0:44:52,0:44:55,2692,...and it will then take me time to get back to where I was.,The Shining
+563,0:44:55,0:44:57,2695,Understand?,The Shining
+564,0:45:0,0:45:1,2700,Fine.,The Shining
+565,0:45:3,0:45:4,2703,We're going to make a new rule:,The Shining
+566,0:45:5,0:45:6,2705,Whenever I'm in here...,The Shining
+567,0:45:6,0:45:8,2706,...and you hear me typing...,The Shining
+568,0:45:10,0:45:13,2710,...or whatever the fuck you hear me doing in here...,The Shining
+569,0:45:13,0:45:16,2713,"...when I'm in here, that means I am working.",The Shining
+570,0:45:16,0:45:18,2716,That means don't come in.,The Shining
+571,0:45:18,0:45:21,2718,"Now, do you think you can handle that?",The Shining
+572,0:45:25,0:45:26,2725,Fine.,The Shining
+573,0:45:27,0:45:31,2727,Why don't you start right now and get the fuck out of here?,The Shining
+574,0:46:7,0:46:8,2767,"All right, you!",The Shining
+575,0:46:9,0:46:11,2769,I know you've got more.,The Shining
+576,0:46:13,0:46:14,2773,Missed!,The Shining
+577,0:46:20,0:46:21,2780,Don't have!,The Shining
+578,0:46:21,0:46:23,2781,No fair anymore.,The Shining
+579,0:47:31,0:47:33,2851,I knew it.,The Shining
+580,0:48:3,0:48:7,2883,This is KDK 12 calling KDK 1.,The Shining
+581,0:48:9,0:48:13,2889,KDK 12 to KDK 1.,The Shining
+582,0:48:13,0:48:16,2893,This is KDK 1. We're receiving you. Over.,The Shining
+583,0:48:16,0:48:20,2896,"Hi, this is Wendy Torrance at the Overlook Hotel.",The Shining
+584,0:48:20,0:48:23,2900,"Hi, how are you folks getting on up there? Over.",The Shining
+585,0:48:23,0:48:25,2903,We're just fine.,The Shining
+586,0:48:25,0:48:27,2905,But our telephones aren't doing too well.,The Shining
+587,0:48:27,0:48:30,2907,"Are the lines down, by any chance? Over.",The Shining
+588,0:48:31,0:48:35,2911,"Yes, quite a few of them are down due to the storm. Over.",The Shining
+589,0:48:35,0:48:38,2915,Any chance of them being repaired soon? Over.,The Shining
+590,0:48:39,0:48:40,2919,"Well, I wouldn't like to say.",The Shining
+591,0:48:40,0:48:43,2920,Most winters they stay that way until spring. Over.,The Shining
+592,0:48:44,0:48:47,2924,"Boy, this storm is really something, isn't it? Over.",The Shining
+593,0:48:48,0:48:51,2928,Yes. It's one of the worst we've had for years.,The Shining
+594,0:48:51,0:48:54,2931,"Is there anything else we can do for you, Mrs. Torrance?",The Shining
+595,0:48:55,0:48:57,2935,I suppose not. Over.,The Shining
+596,0:48:58,0:49:1,2938,"If you folks have any problems up there, just give us a call.",The Shining
+597,0:49:1,0:49:3,2941,"And, Mrs. Torrance?",The Shining
+598,0:49:3,0:49:7,2943,It might be a good idea if you leave your radio on all the time.,The Shining
+599,0:49:8,0:49:9,2948,Okay. We'll do that.,The Shining
+600,0:49:9,0:49:12,2949,It was real nice talking to you.,The Shining
+601,0:49:12,0:49:14,2952,Bye. Over and out.,The Shining
+602,0:49:49,0:49:51,2989,"Hello, Danny.",The Shining
+603,0:49:57,0:49:59,2997,Come and play with us.,The Shining
+604,0:50:4,0:50:7,3004,"Come and play with us, Danny.",The Shining
+605,0:50:9,0:50:11,3009,Forever...,The Shining
+606,0:50:12,0:50:14,3012,...and ever...,The Shining
+607,0:50:15,0:50:17,3015,...and ever.,The Shining
+608,0:50:49,0:50:50,3049,Tony...,The Shining
+609,0:50:51,0:50:53,3051,...I'm scared.,The Shining
+610,0:50:59,0:51:2,3059,Remember what Mr. Hallorann said.,The Shining
+611,0:51:4,0:51:8,3064,"It's just like pictures in a book, Danny.",The Shining
+612,0:51:8,0:51:10,3068,It isn't real.,The Shining
+613,0:51:21,0:51:23,3081,Please let me give you some money.,The Shining
+614,0:51:23,0:51:25,3083,I wouldn't think of it.,The Shining
+615,0:51:25,0:51:26,3085,"Well, how can I repay you?",The Shining
+616,0:51:27,0:51:29,3087,It's okay. Really.,The Shining
+617,0:51:30,0:51:32,3090,"Well, I'm going to have some coffee.",The Shining
+618,0:51:32,0:51:34,3092,Would you like some?,The Shining
+619,0:51:35,0:51:36,3095,Sure.,The Shining
+620,0:51:37,0:51:39,3097,Great. Sit down.,The Shining
+621,0:51:48,0:51:51,3108,Marvelous doughnuts. Help yourself.,The Shining
+622,0:51:53,0:51:55,3113,Coffee will be ready in a few minutes.,The Shining
+623,0:51:59,0:52:2,3119,Can I go up to my room and get my fire engine?,The Shining
+624,0:52:4,0:52:6,3124,Not right now. Daddy's asleep.,The Shining
+625,0:52:7,0:52:10,3127,I won't make any noise.,The Shining
+626,0:52:11,0:52:13,3131,"Now come on, Doc.",The Shining
+627,0:52:13,0:52:15,3133,He only went to bed a few hours ago.,The Shining
+628,0:52:15,0:52:17,3135,Can't you wait till later?,The Shining
+629,0:52:17,0:52:20,3137,I won't make a sound. I promise I'll tiptoe.,The Shining
+630,0:52:23,0:52:25,3143,All right.,The Shining
+631,0:52:25,0:52:27,3145,But really don't make a sound.,The Shining
+632,0:52:27,0:52:29,3147,"I won't, Mom.",The Shining
+633,0:52:30,0:52:31,3150,Make sure you come right back...,The Shining
+634,0:52:32,0:52:34,3152,...because I'm going to make lunch soon.,The Shining
+635,0:52:36,0:52:37,3156,"Okay, Mom.",The Shining
+636,0:53:27,0:53:30,3207,Can I go to my room and get my fire engine?,The Shining
+637,0:53:33,0:53:36,3213,Come here for a minute first.,The Shining
+638,0:54:13,0:54:14,3253,"How's it going, Doc?",The Shining
+639,0:54:19,0:54:21,3259,Having a good time?,The Shining
+640,0:54:23,0:54:24,3263,"Yes, Dad.",The Shining
+641,0:54:27,0:54:29,3267,Good.,The Shining
+642,0:54:31,0:54:33,3271,I want you to have a good time.,The Shining
+643,0:54:34,0:54:35,3274,"I am, Dad.",The Shining
+644,0:54:46,0:54:47,3286,Do you feel bad?,The Shining
+645,0:54:53,0:54:56,3293,I'm just a little bit tired.,The Shining
+646,0:54:57,0:55:0,3297,Then why don't you go to sleep?,The Shining
+647,0:55:3,0:55:5,3303,I can't.,The Shining
+648,0:55:6,0:55:9,3306,I got too much to do.,The Shining
+649,0:55:18,0:55:20,3318,Do you like this hotel?,The Shining
+650,0:55:26,0:55:28,3326,I do.,The Shining
+651,0:55:29,0:55:30,3329,I love it.,The Shining
+652,0:55:32,0:55:34,3332,Don't you?,The Shining
+653,0:55:36,0:55:37,3336,I guess so.,The Shining
+654,0:55:40,0:55:41,3340,Good.,The Shining
+655,0:55:45,0:55:47,3345,I want you to like it here.,The Shining
+656,0:55:51,0:55:54,3351,I wish we could stay here forever...,The Shining
+657,0:55:54,0:55:56,3354,...and ever...,The Shining
+658,0:55:57,0:55:58,3357,...and ever.,The Shining
+659,0:56:4,0:56:5,3364,What?,The Shining
+660,0:56:6,0:56:9,3366,"You would never hurt Mommy or me, would you?",The Shining
+661,0:56:15,0:56:16,3375,What do you mean?,The Shining
+662,0:56:21,0:56:24,3381,Did your mother ever say that to you?,The Shining
+663,0:56:24,0:56:26,3384,That I would hurt you?,The Shining
+664,0:56:27,0:56:28,3387,"No, Dad.",The Shining
+665,0:56:31,0:56:32,3391,You sure?,The Shining
+666,0:56:33,0:56:34,3393,"Yes, Dad.",The Shining
+667,0:56:39,0:56:41,3399,"I love you, Danny.",The Shining
+668,0:56:42,0:56:45,3402,I love you more than anything else...,The Shining
+669,0:56:45,0:56:48,3405,...in the whole world...,The Shining
+670,0:56:48,0:56:51,3408,...and I would never do anything to hurt you...,The Shining
+671,0:56:52,0:56:53,3412,...never.,The Shining
+672,0:56:54,0:56:56,3414,"You know that, don't you?",The Shining
+673,0:56:56,0:56:58,3416,"Yes, Dad.",The Shining
+674,0:56:59,0:57:0,3419,Good.,The Shining
+675,0:58:28,0:58:30,3508,"Mom, are you in there?",The Shining
+676,0:59:49,0:59:50,3589,What happened?,The Shining
+677,0:59:50,0:59:51,3590,Honey...,The Shining
+678,0:59:52,0:59:54,3592,...what's wrong?,The Shining
+679,1:0:2,1:0:3,3602,I had the most...,The Shining
+680,1:0:4,1:0:6,3604,...terrible nightmare I ever had.,The Shining
+681,1:0:8,1:0:11,3608," It was the most horrible dream.  It's okay, it's okay now.",The Shining
+682,1:0:12,1:0:14,3612,Really.,The Shining
+683,1:0:18,1:0:19,3618,I dreamed that I...,The Shining
+684,1:0:20,1:0:22,3620,...that I killed you and Danny.,The Shining
+685,1:0:25,1:0:27,3625,But I didn't just kill you.,The Shining
+686,1:0:28,1:0:31,3628,I cut you up into little pieces.,The Shining
+687,1:0:34,1:0:35,3634,My God.,The Shining
+688,1:0:36,1:0:39,3636,I must be losing my mind.,The Shining
+689,1:0:41,1:0:44,3641,Everything's going to be all right.,The Shining
+690,1:0:46,1:0:48,3646,Come on. Let's get up off the floor.,The Shining
+691,1:0:56,1:0:58,3656,There. Now sit up.,The Shining
+692,1:0:59,1:1:0,3659,It's okay.,The Shining
+693,1:1:2,1:1:3,3662,It's okay.,The Shining
+694,1:1:7,1:1:8,3667,Danny!,The Shining
+695,1:1:9,1:1:10,3669,Everything's okay!,The Shining
+696,1:1:11,1:1:14,3671,Just go play in your room for a while.,The Shining
+697,1:1:14,1:1:16,3674,Your dad's just got a headache.,The Shining
+698,1:1:18,1:1:21,3678,"Danny, mind what I say. Go play in your room.",The Shining
+699,1:1:23,1:1:25,3683,"Honey, let me just go get him out of here.",The Shining
+700,1:1:26,1:1:27,3686,I'll be right back.,The Shining
+701,1:1:29,1:1:31,3689,Why don't you mind me?,The Shining
+702,1:1:38,1:1:40,3698,"Oh, my God.",The Shining
+703,1:1:41,1:1:43,3701,What happened to your neck?,The Shining
+704,1:1:45,1:1:47,3705,What happened to your neck?,The Shining
+705,1:2:16,1:2:18,3736,You did this to him...,The Shining
+706,1:2:19,1:2:20,3739,...didn't you?!,The Shining
+707,1:2:22,1:2:24,3742,You son of a bitch!,The Shining
+708,1:2:24,1:2:26,3744,You did this to him!,The Shining
+709,1:2:26,1:2:28,3746,Didn't you?!,The Shining
+710,1:2:29,1:2:31,3749,How could you?!,The Shining
+711,1:2:31,1:2:33,3751,How could you?!,The Shining
+712,1:4:3,1:4:6,3843,God! I'd give anything for a drink.,The Shining
+713,1:4:8,1:4:11,3848,I'd give my goddamn soul...,The Shining
+714,1:4:11,1:4:14,3851,...for just a glass of beer.,The Shining
+715,1:4:29,1:4:30,3869,"Hi, Lloyd.",The Shining
+716,1:4:34,1:4:36,3874,"A little slow tonight, isn't it?",The Shining
+717,1:4:41,1:4:43,3881,"Yes it is, Mr. Torrance.",The Shining
+718,1:4:46,1:4:47,3886,What will it be?,The Shining
+719,1:4:49,1:4:52,3889,"I'm awfully glad you asked me that, Lloyd...",The Shining
+720,1:4:52,1:4:55,3892,...because I just happen to have two twenties...,The Shining
+721,1:4:55,1:4:58,3895,...and two tens right here in my wallet.,The Shining
+722,1:4:58,1:5:2,3898,I was afraid they were going to be there until next April.,The Shining
+723,1:5:2,1:5:4,3902,So here's what:,The Shining
+724,1:5:5,1:5:7,3905,You slip me a bottle of bourbon...,The Shining
+725,1:5:7,1:5:10,3907,...a little glass and some ice.,The Shining
+726,1:5:10,1:5:12,3910,"You can do that, can't you, Lloyd?",The Shining
+727,1:5:13,1:5:15,3913,"You're not too busy, are you?",The Shining
+728,1:5:16,1:5:18,3916,"No, sir. I'm not busy at all.",The Shining
+729,1:5:19,1:5:20,3919,Good man.,The Shining
+730,1:5:20,1:5:21,3920,You set them up...,The Shining
+731,1:5:22,1:5:25,3922,"...and I'll knock them back, one by one.",The Shining
+732,1:5:26,1:5:29,3926,"White man's burden, Lloyd, my man.",The Shining
+733,1:5:29,1:5:31,3929,White man's burden.,The Shining
+734,1:5:37,1:5:38,3937,"Say, Lloyd...",The Shining
+735,1:5:38,1:5:41,3938,...it seems I'm temporarily light.,The Shining
+736,1:5:42,1:5:44,3942,"How's my credit in this joint, anyway?",The Shining
+737,1:5:44,1:5:47,3944,"Your credit's fine, Mr. Torrance.",The Shining
+738,1:5:47,1:5:49,3947,That's swell.,The Shining
+739,1:5:49,1:5:51,3949,"I like you, Lloyd.",The Shining
+740,1:5:51,1:5:53,3951,I always liked you.,The Shining
+741,1:5:53,1:5:55,3953,You were always the best of them.,The Shining
+742,1:5:55,1:5:58,3955,Best goddamned bartender...,The Shining
+743,1:5:58,1:6:1,3958,"...from Timbuktu to Portland, Maine.",The Shining
+744,1:6:1,1:6:3,3961,"Or Portland, Oregon, for that matter.",The Shining
+745,1:6:4,1:6:5,3964,Thank you for saying so.,The Shining
+746,1:6:8,1:6:12,3968,Here's to 5 miserable months on the wagon...,The Shining
+747,1:6:13,1:6:17,3973,...and all the irreparable harm that it's caused me.,The Shining
+748,1:6:35,1:6:37,3995,"How are things going, Mr. Torrance?",The Shining
+749,1:6:39,1:6:41,3999,Things could be better.,The Shining
+750,1:6:43,1:6:45,4003,Things could be a whole lot better.,The Shining
+751,1:6:46,1:6:49,4006,I hope it's nothing serious.,The Shining
+752,1:6:52,1:6:54,4012,Nothing serious.,The Shining
+753,1:6:55,1:6:58,4015,Just a little problem with...,The Shining
+754,1:6:58,1:7:1,4018,...the old sperm bank upstairs.,The Shining
+755,1:7:1,1:7:4,4021,"Nothing I can't handle, though.",The Shining
+756,1:7:4,1:7:6,4024,Thanks.,The Shining
+757,1:7:6,1:7:7,4026,Women.,The Shining
+758,1:7:7,1:7:9,4027,Can't live with them...,The Shining
+759,1:7:9,1:7:11,4029,...can't live without them.,The Shining
+760,1:7:14,1:7:16,4034,"Words of wisdom, Lloyd.",The Shining
+761,1:7:16,1:7:17,4036,Words of...,The Shining
+762,1:7:18,1:7:19,4038,...wisdom.,The Shining
+763,1:7:31,1:7:34,4051,"I never laid a hand on him, goddamn it.",The Shining
+764,1:7:34,1:7:36,4054,I didn't.,The Shining
+765,1:7:38,1:7:42,4058,I wouldn't touch one hair on his goddamn little head.,The Shining
+766,1:7:43,1:7:46,4063,I love the little son of a bitch.,The Shining
+767,1:7:48,1:7:51,4068,I'd do anything for him.,The Shining
+768,1:7:51,1:7:54,4071,Any fucking thing for him.,The Shining
+769,1:7:58,1:8:0,4078,But that bitch!,The Shining
+770,1:8:1,1:8:3,4081,As long as I live...,The Shining
+771,1:8:3,1:8:7,4083,...she'll never let me forget what happened.,The Shining
+772,1:8:16,1:8:19,4096,"I did hurt him once, okay?",The Shining
+773,1:8:19,1:8:21,4099,It was an accident.,The Shining
+774,1:8:22,1:8:24,4102,Completely unintentional.,The Shining
+775,1:8:26,1:8:28,4106,It could have happened to anybody.,The Shining
+776,1:8:30,1:8:33,4110,And it was three goddamn years ago!,The Shining
+777,1:8:33,1:8:36,4113,The little fucker had thrown all my papers all over the floor.,The Shining
+778,1:8:36,1:8:39,4116,All I tried to do was pull him up.,The Shining
+779,1:8:42,1:8:46,4122,A momentary loss of muscular coordination.,The Shining
+780,1:8:47,1:8:48,4127,I mean...,The Shining
+781,1:8:48,1:8:52,4128,...a few extra footpounds of energy...,The Shining
+782,1:8:52,1:8:55,4132,"...per second, per second.",The Shining
+783,1:9:11,1:9:13,4151,Thank God you're here.,The Shining
+784,1:9:16,1:9:18,4156,There's someone else in the hotel with us.,The Shining
+785,1:9:19,1:9:21,4159,There's a crazy woman in one of the rooms.,The Shining
+786,1:9:21,1:9:24,4161,She tried to strangle Danny.,The Shining
+787,1:9:26,1:9:29,4166,Are you out of your fucking mind?,The Shining
+788,1:9:31,1:9:33,4171,It's the truth! Really.,The Shining
+789,1:9:33,1:9:35,4173,I swear it. Danny told me.,The Shining
+790,1:9:35,1:9:37,4175,He went up into one of the bedrooms.,The Shining
+791,1:9:37,1:9:41,4177,"The door was open, and he saw this crazy woman in the bathtub.",The Shining
+792,1:9:41,1:9:43,4181,She tried to strangle him!,The Shining
+793,1:9:47,1:9:49,4187,Which room was it?,The Shining
+794,1:9:56,1:9:59,4196,From Channel 10 in Miami...,The Shining
+795,1:9:59,1:10:1,4199,...this is Newswatch with Glen Rinker...,The Shining
+796,1:10:1,1:10:6,4201,"...Ann Bishop, and the awardwinning Newswatch team.",The Shining
+797,1:10:6,1:10:8,4206,"Good evening. I'm Glen Rinker, Newswatch Ten.",The Shining
+798,1:10:9,1:10:12,4209,As Miami continues to swelter in a record winter heat wave...,The Shining
+799,1:10:12,1:10:14,4212,...bringing temperatures to the 90s...,The Shining
+800,1:10:14,1:10:17,4214,...Central and Mountain states are buried in snow.,The Shining
+801,1:10:18,1:10:22,4218,"In Colorado, 10 inches of snow fell injust a few hours tonight.",The Shining
+802,1:10:22,1:10:24,4222,Travel in the Rockies is almost impossible.,The Shining
+803,1:10:24,1:10:27,4224,"Airports are shut down, stranding thousands of passengers.",The Shining
+804,1:10:27,1:10:29,4227,Highways are blocked by snowdrifts.,The Shining
+805,1:10:29,1:10:31,4229,Railroad tracks are frozen.,The Shining
+806,1:10:31,1:10:33,4231,Officials in Colorado tell Newswatch...,The Shining
+807,1:10:34,1:10:37,4234,...at least 3 have been killed by exposure to freezing winds.,The Shining
+808,1:10:37,1:10:40,4237,The governor of Colorado is expected...,The Shining
+809,1:10:40,1:10:42,4240,...to declare a weather emergency.,The Shining
+810,1:10:42,1:10:44,4242,The National Guard might be called out...,The Shining
+811,1:10:44,1:10:45,4244,...to clear streets and roads.,The Shining
+812,1:10:45,1:10:48,4245,Weather forecasters predict more snow...,The Shining
+813,1:10:48,1:10:50,4248,...and heavy winds tonight and tomorrow...,The Shining
+814,1:10:50,1:10:53,4250,...with temperatures dropping well below zero.,The Shining
+815,1:10:53,1:10:56,4253,"Back here in Florida, we've got the opposite problem.",The Shining
+816,1:10:56,1:10:58,4256,The heat and humidity are supposed to climb.,The Shining
+817,1:10:58,1:11:0,4258,Local beaches should bejammed.,The Shining
+818,1:11:1,1:11:3,4261,"Our weather expert, Walter Cronice...",The Shining
+819,1:11:3,1:11:6,4263,...will have the local forecast later on Newswatch.,The Shining
+820,1:16:38,1:16:42,4598,We're sorry. Your call cannot be completed as dialed.,The Shining
+821,1:16:43,1:16:46,4603,"If you need assistance, please call the operator.",The Shining
+822,1:17:3,1:17:5,4623,"Yes, it's me.",The Shining
+823,1:17:5,1:17:7,4625,Thank God.,The Shining
+824,1:17:11,1:17:13,4631,Did you find anything?,The Shining
+825,1:17:13,1:17:16,4633,No. Nothing at all.,The Shining
+826,1:17:17,1:17:20,4637,I didn't see one goddamn thing.,The Shining
+827,1:17:23,1:17:26,4643,You went into the room Danny said? To 237?,The Shining
+828,1:17:26,1:17:28,4646,"Yes, I did.",The Shining
+829,1:17:28,1:17:30,4648,And you didn't see anything at all?,The Shining
+830,1:17:30,1:17:32,4650,Absolutely nothing.,The Shining
+831,1:17:32,1:17:34,4652,How is he?,The Shining
+832,1:17:34,1:17:36,4654,He's still asleep.,The Shining
+833,1:17:36,1:17:37,4656,Good.,The Shining
+834,1:17:43,1:17:46,4663,I'm sure he'll be himself again in the morning.,The Shining
+835,1:17:51,1:17:53,4671,Are you sure it was the right room?,The Shining
+836,1:17:53,1:17:57,4673,"I mean, maybe Danny made a mistake.",The Shining
+837,1:17:57,1:17:59,4677,He must have gone in that room.,The Shining
+838,1:17:59,1:18:2,4679,"The door was open, the lights were on.",The Shining
+839,1:18:5,1:18:7,4685,I just don't understand it.,The Shining
+840,1:18:11,1:18:14,4691,What about those bruises on his neck?,The Shining
+841,1:18:17,1:18:19,4697,Somebody did that to him.,The Shining
+842,1:18:27,1:18:29,4707,I think...,The Shining
+843,1:18:30,1:18:33,4710,...he did it to himself.,The Shining
+844,1:18:39,1:18:40,4719,No.,The Shining
+845,1:18:41,1:18:43,4721,That's not possible.,The Shining
+846,1:18:48,1:18:52,4728,Once you rule out his version of what happened...,The Shining
+847,1:18:52,1:18:55,4732,...there is no other explanation.,The Shining
+848,1:18:55,1:18:56,4735,Is there?,The Shining
+849,1:18:59,1:19:2,4739,It wouldn't be that different from the episode...,The Shining
+850,1:19:2,1:19:5,4742,...that he had before we came up here.,The Shining
+851,1:19:5,1:19:7,4745,Would it?,The Shining
+852,1:19:15,1:19:18,4755,Whatever the explanation is...,The Shining
+853,1:19:21,1:19:22,4761,...I think we...,The Shining
+854,1:19:23,1:19:25,4763,...have to get Danny out of here.,The Shining
+855,1:19:30,1:19:32,4770,Get him out of here?,The Shining
+856,1:19:36,1:19:38,4776,You mean...,The Shining
+857,1:19:39,1:19:41,4779,...just leave the hotel?,The Shining
+858,1:19:50,1:19:51,4790,It is so...,The Shining
+859,1:19:51,1:19:54,4791,...typical of you to create a problem like this...,The Shining
+860,1:19:54,1:19:57,4794,...when I finally have a chance to accomplish something!,The Shining
+861,1:19:57,1:19:59,4797,When I'm really into my work!,The Shining
+862,1:20:0,1:20:4,4800,"I could really write my own ticket if I went back now, couldn't I?",The Shining
+863,1:20:4,1:20:8,4804,"Shoveling out driveways, work in a car wash.",The Shining
+864,1:20:8,1:20:10,4808,Any of that appeal to you?,The Shining
+865,1:20:11,1:20:14,4811,I have let you fuck up my life so far...,The Shining
+866,1:20:14,1:20:18,4814,...but I am not going to let you fuck this up.,The Shining
+867,1:21:36,1:21:38,4896,Good evening. Forest Service.,The Shining
+868,1:21:38,1:21:40,4898,My name is Dick Hallorann.,The Shining
+869,1:21:40,1:21:42,4900,I'm the head chef at the Overlook Hotel.,The Shining
+870,1:21:43,1:21:45,4903,Good evening. What can I do for you?,The Shining
+871,1:21:45,1:21:49,4905,I've been trying to make an urgent phone call up there...,The Shining
+872,1:21:49,1:21:52,4909,...but the operator said that the phone lines are down.,The Shining
+873,1:21:52,1:21:56,4912,A lot of lines around here are down due to the storm.,The Shining
+874,1:21:56,1:21:59,4916,I hate to put you through any trouble...,The Shining
+875,1:21:59,1:22:2,4919,...but there's a family up there all by themselves with a young kid.,The Shining
+876,1:22:2,1:22:4,4922,And with this storm and everything...,The Shining
+877,1:22:4,1:22:7,4924,...I'd appreciate it if you'd give them a call on your radio...,The Shining
+878,1:22:7,1:22:9,4927,...just to see if everything's okay.,The Shining
+879,1:22:10,1:22:11,4930,I'll be glad to do that.,The Shining
+880,1:22:11,1:22:14,4931,Why don't you call me back in about 20 minutes?,The Shining
+881,1:22:14,1:22:16,4934,Thank you very much. I'll do that.,The Shining
+882,1:22:17,1:22:18,4937,"All right, sir.",The Shining
+883,1:22:38,1:22:40,4958,"Good evening, Mr. Torrance.",The Shining
+884,1:22:41,1:22:42,4961,Good evening.,The Shining
+885,1:23:7,1:23:8,4987,"Hi, Lloyd.",The Shining
+886,1:23:8,1:23:10,4988,"Been away, but now I'm back.",The Shining
+887,1:23:10,1:23:12,4990,"Good evening, Mr. Torrance.",The Shining
+888,1:23:13,1:23:14,4993,It's good to see you.,The Shining
+889,1:23:14,1:23:17,4994,"It's good to be back, Lloyd.",The Shining
+890,1:23:17,1:23:19,4997,"What'll it be, sir?",The Shining
+891,1:23:20,1:23:22,5000,Hair of the dog that bit me.,The Shining
+892,1:23:23,1:23:25,5003,Bourbon on the rocks.,The Shining
+893,1:23:26,1:23:27,5006,That'll do her.,The Shining
+894,1:23:41,1:23:43,5021,"No charge to you, Mr. Torrance.",The Shining
+895,1:23:45,1:23:47,5025,No charge?,The Shining
+896,1:23:47,1:23:49,5027,Your money's no good here.,The Shining
+897,1:23:55,1:23:57,5035,Orders from the house.,The Shining
+898,1:24:0,1:24:2,5040,Orders from the house.,The Shining
+899,1:24:6,1:24:8,5046,"Drink up, Mr. Torrance.",The Shining
+900,1:24:10,1:24:14,5050,"I'm the kind of man likes to know who's buying their drinks, Lloyd.",The Shining
+901,1:24:17,1:24:19,5057,"It's not a matter that concerns you, Mr. Torrance.",The Shining
+902,1:24:20,1:24:22,5060,"At least, not at this point.",The Shining
+903,1:24:26,1:24:29,5066,"Anything you say, Lloyd.",The Shining
+904,1:24:29,1:24:31,5069,Anything you say.,The Shining
+905,1:24:44,1:24:47,5084,"Oh, dear! I'm so sorry, sir.",The Shining
+906,1:24:48,1:24:49,5088,"Oh, dear. Oh, dear.",The Shining
+907,1:24:50,1:24:52,5090,"I've made an awful mess of your jacket, sir.",The Shining
+908,1:24:53,1:24:57,5093,That's all right. I've got plenty of jackets.,The Shining
+909,1:24:57,1:25:0,5097,"I'm afraid it's advocaat, sir. It tends to stain.",The Shining
+910,1:25:0,1:25:1,5100,"Advocaat, is it?",The Shining
+911,1:25:1,1:25:4,5101,"Yes, sir. I think the best thing...",The Shining
+912,1:25:4,1:25:6,5104,...is to come along to the gentlemen's room...,The Shining
+913,1:25:6,1:25:9,5106,"...and we'll get some water to it, sir.",The Shining
+914,1:25:10,1:25:13,5110,Looks like you might have got a spot of it on yourself...,The Shining
+915,1:25:13,1:25:14,5113,...Jeevesy old boy.,The Shining
+916,1:25:14,1:25:17,5114,"That doesn't matter, sir. You're the important one.",The Shining
+917,1:25:18,1:25:20,5118,Awfully nice of you to say.,The Shining
+918,1:25:21,1:25:24,5121,"Of course, I intended to change my jacket this evening...",The Shining
+919,1:25:24,1:25:26,5124,...before the fish and goose soiree.,The Shining
+920,1:25:26,1:25:28,5126,"Very wise, sir. Very wise.",The Shining
+921,1:25:28,1:25:30,5128,Here. I'll just...,The Shining
+922,1:25:31,1:25:33,5131,"...hold this for you there, Jeevesy.",The Shining
+923,1:25:33,1:25:35,5133,"Thank you, sir. Thank you.",The Shining
+924,1:25:36,1:25:39,5136,"Let's see if we can improve this with a little water, sir.",The Shining
+925,1:25:40,1:25:41,5140,All right. I'll just...,The Shining
+926,1:25:41,1:25:45,5141,...set my bourbon and advocaat down right there.,The Shining
+927,1:25:46,1:25:47,5146,Won't keep you a moment.,The Shining
+928,1:25:48,1:25:49,5148,Fine.,The Shining
+929,1:25:52,1:25:54,5152,"What do they call you, Jeevesy?",The Shining
+930,1:25:54,1:25:56,5154,"Grady, sir. Delbert Grady.",The Shining
+931,1:26:1,1:26:2,5161,Grady?,The Shining
+932,1:26:2,1:26:4,5162,"Yes, sir.",The Shining
+933,1:26:5,1:26:6,5165,Delbert Grady.,The Shining
+934,1:26:6,1:26:8,5166,"That's right, sir.",The Shining
+935,1:26:17,1:26:18,5177,Mr. Grady...,The Shining
+936,1:26:19,1:26:21,5179,...haven't I seen you somewhere before?,The Shining
+937,1:26:21,1:26:24,5181,"Why, no, sir. I don't believe so.",The Shining
+938,1:26:31,1:26:33,5191,"It's coming off now, sir.",The Shining
+939,1:26:38,1:26:39,5198,Mr. Grady...,The Shining
+940,1:26:41,1:26:43,5201,...weren't you once the caretaker here?,The Shining
+941,1:26:43,1:26:46,5203,"Why, no, sir. I don't believe so.",The Shining
+942,1:26:49,1:26:53,5209,"You a married man, are you, Mr. Grady?",The Shining
+943,1:26:53,1:26:54,5213,"Yes, sir.",The Shining
+944,1:26:54,1:26:57,5214,"I have a wife and two daughters, sir.",The Shining
+945,1:26:58,1:27:0,5218,And...,The Shining
+946,1:27:1,1:27:3,5221,...where are they now?,The Shining
+947,1:27:3,1:27:7,5223,They're somewhere around. I'm not quite sure at the moment.,The Shining
+948,1:27:17,1:27:20,5237,You were the caretaker here.,The Shining
+949,1:27:21,1:27:23,5241,I recognize you.,The Shining
+950,1:27:25,1:27:28,5245,I saw your picture in the newspapers.,The Shining
+951,1:27:28,1:27:30,5248,You...,The Shining
+952,1:27:30,1:27:34,5250,...chopped your wife and daughter up into little bits.,The Shining
+953,1:27:34,1:27:36,5254,And...,The Shining
+954,1:27:37,1:27:38,5257,...then you blew your brains out.,The Shining
+955,1:27:48,1:27:50,5268,"That's strange, sir.",The Shining
+956,1:27:51,1:27:54,5271,I don't have any recollection of that at all.,The Shining
+957,1:27:58,1:27:59,5278,Mr. Grady...,The Shining
+958,1:28:0,1:28:3,5280,...you were the caretaker here.,The Shining
+959,1:28:11,1:28:14,5291,"I'm sorry to differ with you, sir.",The Shining
+960,1:28:16,1:28:17,5296,But you...,The Shining
+961,1:28:18,1:28:20,5298,...are the caretaker.,The Shining
+962,1:28:22,1:28:25,5302,You've always been the caretaker.,The Shining
+963,1:28:28,1:28:30,5308,"I should know, sir.",The Shining
+964,1:28:31,1:28:34,5311,I've always been here.,The Shining
+965,1:28:52,1:28:54,5332,"Did you know, Mr. Torrance...",The Shining
+966,1:28:55,1:28:56,5335,...that your son...,The Shining
+967,1:28:57,1:28:59,5337,...is attempting to bring an outside party...,The Shining
+968,1:29:0,1:29:2,5340,...into this situation?,The Shining
+969,1:29:4,1:29:6,5344,Did you know that?,The Shining
+970,1:29:12,1:29:14,5352,"He is, Mr. Torrance.",The Shining
+971,1:29:17,1:29:18,5357,Who?,The Shining
+972,1:29:20,1:29:22,5360,A nigger.,The Shining
+973,1:29:26,1:29:27,5366,A nigger?,The Shining
+974,1:29:30,1:29:31,5370,A nigger...,The Shining
+975,1:29:32,1:29:33,5372,...cook.,The Shining
+976,1:29:39,1:29:41,5379,How?,The Shining
+977,1:29:43,1:29:45,5383,Your son...,The Shining
+978,1:29:45,1:29:48,5385,...has a very great talent.,The Shining
+979,1:29:49,1:29:52,5389,I don't think you are aware how great it is.,The Shining
+980,1:29:53,1:29:56,5393,But he is attempting to use that very talent...,The Shining
+981,1:29:56,1:29:58,5396,...against your will.,The Shining
+982,1:30:7,1:30:8,5407,Well...,The Shining
+983,1:30:11,1:30:14,5411,...he is a very willful boy.,The Shining
+984,1:30:16,1:30:19,5416,"Indeed he is, Mr. Torrance.",The Shining
+985,1:30:19,1:30:22,5419,A very willful boy.,The Shining
+986,1:30:22,1:30:24,5422,A rather...,The Shining
+987,1:30:24,1:30:25,5424,...naughty boy...,The Shining
+988,1:30:25,1:30:29,5425,"...if I may be so bold, sir.",The Shining
+989,1:30:36,1:30:38,5436,It's his mother.,The Shining
+990,1:30:40,1:30:41,5440,She...,The Shining
+991,1:30:41,1:30:43,5441,...interferes.,The Shining
+992,1:30:47,1:30:50,5447,Perhaps they need a good...,The Shining
+993,1:30:50,1:30:51,5450,...talkingto.,The Shining
+994,1:30:52,1:30:53,5452,lf...,The Shining
+995,1:30:53,1:30:56,5453,...you don't mind my saying so.,The Shining
+996,1:30:57,1:30:58,5457,Perhaps...,The Shining
+997,1:30:59,1:31:0,5459,...a bit more.,The Shining
+998,1:31:4,1:31:5,5464,"My girls, sir...",The Shining
+999,1:31:5,1:31:9,5465,...they didn't care for the Overlook at first.,The Shining
+1000,1:31:10,1:31:13,5470,One of them actually stole a pack of matches...,The Shining
+1001,1:31:14,1:31:16,5474,...and tried to burn it down.,The Shining
+1002,1:31:17,1:31:19,5477,But I...,The Shining
+1003,1:31:19,1:31:21,5479,"...corrected them, sir.",The Shining
+1004,1:31:23,1:31:27,5483,And when my wife tried to prevent me from doing my duty...,The Shining
+1005,1:31:27,1:31:28,5487,...I...,The Shining
+1006,1:31:29,1:31:31,5489,...corrected her.,The Shining
+1007,1:31:45,1:31:47,5505,We have the Snowcat.,The Shining
+1008,1:31:51,1:31:53,5511,If the weather breaks...,The Shining
+1009,1:31:53,1:31:55,5513,...we might just be able...,The Shining
+1010,1:31:55,1:31:57,5515,...to get down the mountain.,The Shining
+1011,1:32:0,1:32:2,5520,I could call the forest rangers first...,The Shining
+1012,1:32:3,1:32:4,5523,...and...,The Shining
+1013,1:32:4,1:32:6,5524,...tell them that we're coming...,The Shining
+1014,1:32:7,1:32:8,5527,...so that...,The Shining
+1015,1:32:8,1:32:12,5528,...they could start searching for us in case we didn't make it.,The Shining
+1016,1:32:16,1:32:18,5536,And if Jack won't come with us...,The Shining
+1017,1:32:20,1:32:24,5540,...I'll just have to tell him that we're going by ourselves.,The Shining
+1018,1:32:24,1:32:26,5544,That's all there is to it.,The Shining
+1019,1:32:28,1:32:29,5548,Redrum.,The Shining
+1020,1:32:30,1:32:32,5550,Redrum.,The Shining
+1021,1:32:43,1:32:44,5563,"What's the matter, hon?",The Shining
+1022,1:32:44,1:32:45,5564,Redrum!,The Shining
+1023,1:32:46,1:32:48,5566,Are you having a bad dream?,The Shining
+1024,1:32:54,1:32:55,5574,Hon?,The Shining
+1025,1:33:1,1:33:5,5581,"Danny's not here, Mrs. Torrance.",The Shining
+1026,1:33:10,1:33:11,5590,"Come on, hon.",The Shining
+1027,1:33:12,1:33:13,5592,Wake up.,The Shining
+1028,1:33:14,1:33:17,5594,You just had a bad dream.,The Shining
+1029,1:33:18,1:33:20,5598,Everything's okay.,The Shining
+1030,1:33:24,1:33:28,5604,"Danny can't wake up, Mrs. Torrance.",The Shining
+1031,1:33:38,1:33:39,5618,Wake up!,The Shining
+1032,1:33:41,1:33:42,5621,Come on.,The Shining
+1033,1:33:42,1:33:44,5622,Right now.,The Shining
+1034,1:33:44,1:33:45,5624,Wake up!,The Shining
+1035,1:33:50,1:33:54,5630,"Danny's gone away, Mrs. Torrance.",The Shining
+1036,1:34:4,1:34:7,5644,This is KDK 1 calling KDK 12.,The Shining
+1037,1:34:7,1:34:10,5647,KDK 1 calling KDK 12.,The Shining
+1038,1:34:10,1:34:12,5650,Are you receiving me?,The Shining
+1039,1:34:15,1:34:18,5655,This is KDK 1 calling KDK 12.,The Shining
+1040,1:34:19,1:34:22,5659,KDK 1 calling KDK 12.,The Shining
+1041,1:34:22,1:34:23,5662,Do you read me?,The Shining
+1042,1:34:28,1:34:31,5668,This is KDK 1 calling KDK 12.,The Shining
+1043,1:34:31,1:34:34,5671,KDK 1 calling KDK 12.,The Shining
+1044,1:34:34,1:34:36,5674,Are you receiving me?,The Shining
+1045,1:35:12,1:35:14,5712,Good evening. Forest service.,The Shining
+1046,1:35:14,1:35:16,5714,This is Dick Hallorann again.,The Shining
+1047,1:35:17,1:35:20,5717,I called a while ago about the folks at the Overlook Hotel.,The Shining
+1048,1:35:21,1:35:25,5721,We tried to contact them several times but they didn't answer.,The Shining
+1049,1:35:25,1:35:28,5725,Maybe they got their radio turned off or they can't hear it.,The Shining
+1050,1:35:29,1:35:32,5729,"If you'd like, I'd be glad to try again later on.",The Shining
+1051,1:35:32,1:35:34,5732,That's very nice of you.,The Shining
+1052,1:35:34,1:35:36,5734,I'll call you back later.,The Shining
+1053,1:35:36,1:35:37,5736,Bye.,The Shining
+1054,1:36:25,1:36:28,5785,"Pardon me, miss. What time will we get to Denver?",The Shining
+1055,1:36:28,1:36:30,5788,"We're due to arrive at 8:20, sir.",The Shining
+1056,1:36:30,1:36:32,5790,Thank you very much.,The Shining
+1057,1:37:36,1:37:37,5856,Durkin's Garage.,The Shining
+1058,1:37:37,1:37:38,5857,Can I speak to Larry?,The Shining
+1059,1:37:38,1:37:39,5858,Speaking.,The Shining
+1060,1:37:39,1:37:42,5859,"Hi, Larry. This is Dick. Dick Hallorann.",The Shining
+1061,1:37:42,1:37:44,5862,Dick! How you doing?,The Shining
+1062,1:37:44,1:37:45,5864,How's the weather down there?,The Shining
+1063,1:37:46,1:37:49,5866,I'm not in Florida. I'm calling from Stapleton Airport.,The Shining
+1064,1:37:49,1:37:51,5869,What are you doing there?,The Shining
+1065,1:37:51,1:37:55,5871,I just got in from Miami. I got to get to the Overlook today.,The Shining
+1066,1:37:55,1:37:56,5875,What's the weather like there?,The Shining
+1067,1:37:57,1:38:0,5877,The snowplows are keeping things moving in town...,The Shining
+1068,1:38:0,1:38:2,5880,...but the mountain roads are blocked.,The Shining
+1069,1:38:3,1:38:5,5883,Then I'm going to need a Snowcat to get up there.,The Shining
+1070,1:38:5,1:38:7,5885,Can you fix me up with one?,The Shining
+1071,1:38:8,1:38:10,5888,What's the big deal about getting there today...,The Shining
+1072,1:38:10,1:38:11,5890,...especially in this weather?,The Shining
+1073,1:38:12,1:38:16,5892,"Larry, just between you and me, we got a very serious problem...",The Shining
+1074,1:38:16,1:38:18,5896,...with the people taking care of the place.,The Shining
+1075,1:38:18,1:38:22,5898,They turned out to be completely unreliable assholes.,The Shining
+1076,1:38:22,1:38:24,5902,Ullman phoned me last night.,The Shining
+1077,1:38:24,1:38:28,5904,And I'm supposed to find out if they have to be replaced.,The Shining
+1078,1:38:29,1:38:31,5909,How long will it take you to get here?,The Shining
+1079,1:38:32,1:38:33,5912,About five hours.,The Shining
+1080,1:38:34,1:38:36,5914,I'm going to rent a car here at the airport.,The Shining
+1081,1:38:36,1:38:38,5916,"Okay, I'll take care of it.",The Shining
+1082,1:38:38,1:38:41,5918,"Thanks, Larry. I really appreciate that.",The Shining
+1083,1:38:41,1:38:44,5921,That's all right. Drive carefully.,The Shining
+1084,1:38:50,1:38:53,5930,"You're with Hal and Charlie on Radio 63, KHOW, Denver.",The Shining
+1085,1:38:53,1:38:56,5933,And we have a bad day out there.,The Shining
+1086,1:38:56,1:38:59,5936,Heavy snow throughout the Denver metro area.,The Shining
+1087,1:38:59,1:39:1,5939,Many mountain passes...,The Shining
+1088,1:39:1,1:39:4,5941,...Wolf Creek and Red Mountain passes are closed...,The Shining
+1089,1:39:4,1:39:7,5944,...and the chain law is in effect at the Eisenhower Tunnel.,The Shining
+1090,1:39:8,1:39:9,5948,We hear from the news department...,The Shining
+1091,1:39:10,1:39:13,5950,...only a few flights are landing at Stapleton Airport...,The Shining
+1092,1:39:13,1:39:15,5953,...and with storms like this...,The Shining
+1093,1:39:15,1:39:19,5955,...I guess the entire airport will be closed within the hour.,The Shining
+1094,1:39:19,1:39:22,5959,The storm will continue through the day and the Weather Service...,The Shining
+1095,1:39:22,1:39:25,5962,...has declared a stockman's and traveler's advisory...,The Shining
+1096,1:39:25,1:39:28,5965,...for all areas outlying the Denver metro region.,The Shining
+1097,1:39:28,1:39:29,5968,Get the cows in the barn.,The Shining
+1098,1:39:51,1:39:52,5991,Hon?,The Shining
+1099,1:39:57,1:39:59,5997,"Listen to me for a minute, will you?",The Shining
+1100,1:40:3,1:40:7,6003,I'm just going to go and talk to Daddy for a few minutes...,The Shining
+1101,1:40:7,1:40:9,6007,...and I'll be right back.,The Shining
+1102,1:40:10,1:40:12,6010,I want you to just stay here...,The Shining
+1103,1:40:13,1:40:15,6013,"...and watch your cartoons, okay?",The Shining
+1104,1:40:18,1:40:20,6018,"Okay, hon?",The Shining
+1105,1:40:23,1:40:26,6023,"Yes, Mrs. Torrance.",The Shining
+1106,1:40:35,1:40:36,6035,All right.,The Shining
+1107,1:40:38,1:40:41,6038,I'll be back in just about five minutes.,The Shining
+1108,1:40:42,1:40:44,6042,I'm going to lock the door behind me.,The Shining
+1109,1:44:10,1:44:12,6250,How do you like it?,The Shining
+1110,1:44:19,1:44:20,6259,How do you like it?,The Shining
+1111,1:44:30,1:44:33,6270,What are you doing down here?,The Shining
+1112,1:44:37,1:44:39,6277,I just...,The Shining
+1113,1:44:40,1:44:41,6280,...wanted...,The Shining
+1114,1:44:41,1:44:43,6281,...to talk to you.,The Shining
+1115,1:44:45,1:44:47,6285,Okay.,The Shining
+1116,1:44:47,1:44:49,6287,Let's talk.,The Shining
+1117,1:44:59,1:45:1,6299,What do you want to talk about?,The Shining
+1118,1:45:9,1:45:12,6309,I can't really remember.,The Shining
+1119,1:45:12,1:45:15,6312,You can't remember.,The Shining
+1120,1:45:15,1:45:17,6315,No...,The Shining
+1121,1:45:17,1:45:19,6317,...I can't.,The Shining
+1122,1:45:24,1:45:27,6324,Maybe it was about Danny?,The Shining
+1123,1:45:29,1:45:32,6329,Maybe it was about him.,The Shining
+1124,1:45:36,1:45:39,6336,I think we should discuss Danny.,The Shining
+1125,1:45:42,1:45:44,6342,I think...,The Shining
+1126,1:45:44,1:45:48,6344,...we should discuss what should be done with him.,The Shining
+1127,1:45:53,1:45:55,6353,What should be done with him?,The Shining
+1128,1:46:0,1:46:2,6360,I don't know.,The Shining
+1129,1:46:2,1:46:4,6362,I don't think that's true.,The Shining
+1130,1:46:5,1:46:7,6365,I think you have some very definite ideas...,The Shining
+1131,1:46:7,1:46:9,6367,...about what should be done with Danny.,The Shining
+1132,1:46:9,1:46:12,6369,And I'd like to know what they are.,The Shining
+1133,1:46:14,1:46:16,6374,"Well, I...",The Shining
+1134,1:46:16,1:46:20,6376,...I think maybe he should be taken to a doctor.,The Shining
+1135,1:46:21,1:46:24,6381,"You think ""maybe"" he should be taken to a doctor?",The Shining
+1136,1:46:26,1:46:29,6386,"When do you think ""maybe"" he should be taken to a doctor?",The Shining
+1137,1:46:30,1:46:31,6390,As soon as possible?,The Shining
+1138,1:46:32,1:46:34,6392,"""As soon as possible?""",The Shining
+1139,1:46:37,1:46:39,6397,Please.,The Shining
+1140,1:46:40,1:46:43,6400,You believe his health might be at stake.,The Shining
+1141,1:46:45,1:46:46,6405,Yes.,The Shining
+1142,1:46:48,1:46:50,6408,And you are concerned about him.,The Shining
+1143,1:46:53,1:46:55,6413,And are you concerned about me?,The Shining
+1144,1:46:56,1:46:57,6416,Of course I am.,The Shining
+1145,1:46:57,1:47:0,6417,Of course you are!,The Shining
+1146,1:47:0,1:47:3,6420,Have you ever thought about my responsibilities?,The Shining
+1147,1:47:3,1:47:5,6423,What are you talking about?,The Shining
+1148,1:47:5,1:47:8,6425,Have you ever had a single moment's...,The Shining
+1149,1:47:8,1:47:10,6428,...thought about my responsibilities?,The Shining
+1150,1:47:10,1:47:12,6430,Have you ever thought for a single moment...,The Shining
+1151,1:47:13,1:47:15,6433,...about my responsibilities to my employers?!,The Shining
+1152,1:47:16,1:47:17,6436,Has is ever occurred to you...,The Shining
+1153,1:47:18,1:47:21,6438,...that I have agreed to look after the hotel until May 1st?,The Shining
+1154,1:47:21,1:47:23,6441,Does it matter to you at all...,The Shining
+1155,1:47:24,1:47:27,6444,...that the owners have placed their complete confidence in me...,The Shining
+1156,1:47:27,1:47:30,6447,...and that I have signed a letter of agreement...,The Shining
+1157,1:47:30,1:47:33,6450,...in which I've accepted that responsibility?,The Shining
+1158,1:47:33,1:47:35,6453,Do you have the slightest idea...,The Shining
+1159,1:47:36,1:47:39,6456,...what a moral and ethical principal is? Do you?!,The Shining
+1160,1:47:39,1:47:42,6459,Has it ever occurred to you what would happen to my future...,The Shining
+1161,1:47:42,1:47:45,6462,...if I fail to live up to my responsibilities?,The Shining
+1162,1:47:45,1:47:47,6465,Has it ever occurred to you? Has it?!,The Shining
+1163,1:47:48,1:47:49,6468,Stay away from me!,The Shining
+1164,1:47:50,1:47:51,6470,Why?,The Shining
+1165,1:47:51,1:47:54,6471,I just want to go back to my room.,The Shining
+1166,1:47:55,1:47:56,6475,Why?,The Shining
+1167,1:47:56,1:47:57,6476,Well...,The Shining
+1168,1:47:58,1:48:0,6478,...I'm very confused.,The Shining
+1169,1:48:2,1:48:5,6482,And I just need a chance to think things over.,The Shining
+1170,1:48:6,1:48:10,6486,You've had your whole fucking life to think things over!,The Shining
+1171,1:48:10,1:48:13,6490,What good's a few minutes more going to do you now?,The Shining
+1172,1:48:14,1:48:16,6494,Stay away from me!,The Shining
+1173,1:48:16,1:48:17,6496,Please!,The Shining
+1174,1:48:18,1:48:19,6498,Don't hurt me.,The Shining
+1175,1:48:19,1:48:21,6499,I'm not going to hurt you.,The Shining
+1176,1:48:21,1:48:22,6501,Stay away from me!,The Shining
+1177,1:48:22,1:48:23,6502,Stay away!,The Shining
+1178,1:48:23,1:48:24,6503,Darling.,The Shining
+1179,1:48:25,1:48:26,6505,Light of my life.,The Shining
+1180,1:48:27,1:48:28,6507,I'm not going to hurt you.,The Shining
+1181,1:48:28,1:48:30,6508,You didn't let me finish my sentence.,The Shining
+1182,1:48:30,1:48:32,6510,"I said, ""I'm not going to hurt you.""",The Shining
+1183,1:48:33,1:48:35,6513,I'm just going to bash your brains in.,The Shining
+1184,1:48:36,1:48:39,6516,I'm going to bash them right the fuck in.,The Shining
+1185,1:48:40,1:48:41,6520,Stay away from me!,The Shining
+1186,1:48:42,1:48:43,6522,Stay away from me!,The Shining
+1187,1:48:43,1:48:45,6523,I'm not going to hurt you.,The Shining
+1188,1:48:46,1:48:47,6526,Stay away from me!,The Shining
+1189,1:48:48,1:48:49,6528,Stay away!,The Shining
+1190,1:48:49,1:48:51,6529,Please!,The Shining
+1191,1:48:52,1:48:53,6532,Stop swinging the bat.,The Shining
+1192,1:48:54,1:48:55,6534,Stay away from me.,The Shining
+1193,1:48:56,1:48:57,6536,"Put that bat down, Wendy.",The Shining
+1194,1:48:57,1:48:59,6537,Stop it!,The Shining
+1195,1:49:0,1:49:1,6540,Give me the bat.,The Shining
+1196,1:49:2,1:49:3,6542,Please!,The Shining
+1197,1:49:3,1:49:5,6543, Stay away!  Give me the bat.,The Shining
+1198,1:49:5,1:49:6,6545,Stop it!,The Shining
+1199,1:49:7,1:49:8,6547,Give me the bat.,The Shining
+1200,1:49:8,1:49:10,6548, Stay away from me.  Stop swinging the bat.,The Shining
+1201,1:49:10,1:49:12,6550,Please stop!,The Shining
+1202,1:49:12,1:49:13,6552,Give me the bat.,The Shining
+1203,1:49:13,1:49:14,6553,Stay away from me.,The Shining
+1204,1:49:15,1:49:17,6555, Stop it!  Give me the bat.,The Shining
+1205,1:49:18,1:49:19,6558,Goddamn!,The Shining
+1206,1:50:35,1:50:36,6635,What are you doing?,The Shining
+1207,1:50:39,1:50:41,6639,Wait a minute.,The Shining
+1208,1:50:42,1:50:44,6642,What are you doing?,The Shining
+1209,1:50:47,1:50:48,6647,What are you doing?,The Shining
+1210,1:51:2,1:51:4,6662,Wait a minute!,The Shining
+1211,1:51:6,1:51:8,6666,What are you doing?,The Shining
+1212,1:51:8,1:51:10,6668,Open the door!,The Shining
+1213,1:51:11,1:51:12,6671,Goddamn it!,The Shining
+1214,1:51:12,1:51:16,6672,Let me out of here! Open the goddamn door!,The Shining
+1215,1:51:19,1:51:21,6679,"Wendy, listen.",The Shining
+1216,1:51:21,1:51:24,6681,Let me out and I'll forget the whole goddamn thing.,The Shining
+1217,1:51:24,1:51:27,6684,It'll be just like nothing ever happened.,The Shining
+1218,1:51:41,1:51:43,6701,Baby.,The Shining
+1219,1:51:44,1:51:47,6704,I think you hurt my head real bad.,The Shining
+1220,1:51:49,1:51:50,6709,I'm dizzy.,The Shining
+1221,1:51:51,1:51:54,6711,I need a doctor.,The Shining
+1222,1:52:1,1:52:2,6721,Honey.,The Shining
+1223,1:52:4,1:52:7,6724,Don't leave me in here.,The Shining
+1224,1:52:15,1:52:17,6735,I'm going to go now.,The Shining
+1225,1:52:20,1:52:22,6740,I'm going to try...,The Shining
+1226,1:52:22,1:52:25,6742,...to get Danny down the Sidewinder...,The Shining
+1227,1:52:26,1:52:28,6746,...in the Snowcat today.,The Shining
+1228,1:52:31,1:52:33,6751,I'll bring back a doctor.,The Shining
+1229,1:52:38,1:52:40,6758,I'm going to go now.,The Shining
+1230,1:52:47,1:52:51,6767,You've got a big surprise coming to you.,The Shining
+1231,1:52:52,1:52:55,6772,You're not going anywhere.,The Shining
+1232,1:52:57,1:53:1,6777,"Go check out the Snowcat and the radio, and you'll see what I mean.",The Shining
+1233,1:53:5,1:53:7,6785,Go check it out.,The Shining
+1234,1:53:9,1:53:12,6789,Go check it out!,The Shining
+1235,1:53:15,1:53:17,6795,Go check it out.,The Shining
+1236,1:55:5,1:55:7,6905,"It's Grady, Mr. Torrance.",The Shining
+1237,1:55:8,1:55:10,6908,Delbert Grady.,The Shining
+1238,1:55:11,1:55:13,6911,Grady?,The Shining
+1239,1:55:33,1:55:35,6933,"Hello, Grady.",The Shining
+1240,1:55:40,1:55:42,6940,Mr. Torrance...,The Shining
+1241,1:55:44,1:55:47,6944,...I see you can hardly have taken care of the...,The Shining
+1242,1:55:48,1:55:51,6948,...business we discussed.,The Shining
+1243,1:55:57,1:56:0,6957,"No need to rub it in, Mr. Grady.",The Shining
+1244,1:56:1,1:56:5,6961,I'll deal with that situation as soon as I get out of here.,The Shining
+1245,1:56:6,1:56:9,6966,"Will you indeed, Mr. Torrance?",The Shining
+1246,1:56:9,1:56:11,6969,I wonder.,The Shining
+1247,1:56:12,1:56:14,6972,I have my doubts.,The Shining
+1248,1:56:16,1:56:20,6976,"I, and others, have come to believe...",The Shining
+1249,1:56:20,1:56:23,6980,...that your heart is not in this.,The Shining
+1250,1:56:24,1:56:26,6984,That you haven't the belly for it.,The Shining
+1251,1:56:32,1:56:37,6992,"Just give me one more chance to prove it, Mr. Grady.",The Shining
+1252,1:56:37,1:56:39,6997,That's all I ask.,The Shining
+1253,1:56:41,1:56:45,7001,"Your wife appears to be stronger than we imagined, Mr. Torrance.",The Shining
+1254,1:56:45,1:56:47,7005,Somewhat more...,The Shining
+1255,1:56:47,1:56:49,7007,...resourceful.,The Shining
+1256,1:56:49,1:56:52,7009,She seems to have got the better of you.,The Shining
+1257,1:56:55,1:56:58,7015,"For the moment, Mr. Grady.",The Shining
+1258,1:56:59,1:57:1,7019,Only for the moment.,The Shining
+1259,1:57:3,1:57:7,7023,I fear you will have to deal with this matter...,The Shining
+1260,1:57:7,1:57:11,7027,"...in the harshest possible way, Mr. Torrance.",The Shining
+1261,1:57:11,1:57:13,7031,I fear...,The Shining
+1262,1:57:13,1:57:16,7033,...that is the only thing to do.,The Shining
+1263,1:57:19,1:57:21,7039,There's nothing I look forward to...,The Shining
+1264,1:57:22,1:57:26,7042,"...with greater pleasure, Mr. Grady.",The Shining
+1265,1:57:27,1:57:30,7047,"You give your word on that, do you, Mr. Torrance?",The Shining
+1266,1:57:31,1:57:33,7051,I give you my word.,The Shining
+1267,1:58:45,1:58:48,7125,Redrum.,The Shining
+1268,1:58:49,1:58:51,7129,Redrum.,The Shining
+1269,2:0:59,2:1:1,7259,"Danny, stop it!",The Shining
+1270,2:1:58,2:1:59,7318,I'm home.,The Shining
+1271,2:2:37,2:2:39,7357,"Come out, come out, wherever you are.",The Shining
+1272,2:3:5,2:3:7,7385,I can't get out.,The Shining
+1273,2:3:8,2:3:9,7388,Run!,The Shining
+1274,2:3:10,2:3:11,7390,Run and hide!,The Shining
+1275,2:3:12,2:3:13,7392,Run!,The Shining
+1276,2:3:13,2:3:14,7393,Quick!,The Shining
+1277,2:3:16,2:3:20,7396,"Little pigs, little pigs, let me come in.",The Shining
+1278,2:3:26,2:3:30,7406,Not by the hair on your chinnychinchin?,The Shining
+1279,2:3:31,2:3:33,7411,Then I'll huff...,The Shining
+1280,2:3:33,2:3:35,7413,...and I'll puff...,The Shining
+1281,2:3:35,2:3:38,7415,...and I'll blow your house in!,The Shining
+1282,2:3:52,2:3:54,7432,Please!,The Shining
+1283,2:3:55,2:3:56,7435,Don't!,The Shining
+1284,2:3:57,2:3:59,7437,Don't!,The Shining
+1285,2:4:17,2:4:18,7457,Stop it!,The Shining
+1286,2:4:23,2:4:24,7463,Here's Johnny!,The Shining
+1287,2:7:6,2:7:7,7626,Hello?,The Shining
+1288,2:7:13,2:7:15,7633,Anybody here?,The Shining
+1289,2:7:37,2:7:38,7657,Hello?,The Shining
+1290,2:7:51,2:7:52,7671,Anybody here?,The Shining
+1291,2:8:22,2:8:24,7702,Anybody here?,The Shining
+1292,2:9:5,2:9:7,7745,Dannyboy!,The Shining
+1293,2:11:48,2:11:50,7908,I'm coming!,The Shining
+1294,2:11:52,2:11:54,7912,"I'm coming, Dan!",The Shining
+1295,2:12:55,2:12:57,7975,"Great party, isn't it?",The Shining
+1296,2:13:15,2:13:17,7995,I'm coming!,The Shining
+1297,2:13:20,2:13:22,8000,You can't get away!,The Shining
+1298,2:13:26,2:13:29,8006,I'm right behind you!,The Shining
+1299,2:17:27,2:17:29,8247," Mommy!  Danny, come here!",The Shining
+1300,2:17:30,2:17:32,8250,Mommy.,The Shining
+1301,2:17:40,2:17:42,8260,Where...?,The Shining

@@ -1,0 +1,633 @@
+Index,Start Time,End Time,Start Time (sec),Text,Movie
+0,0:5:15,0:5:18,315,Your move: Bishop to knight four.,The Thing
+1,0:5:18,0:5:21,318,My move: Knight to rook three.,The Thing
+2,0:5:22,0:5:25,322,"Poor baby, you're starting to lose it, aren't ya?",The Thing
+3,0:5:31,0:5:33,331,Your move: King to rook one.,The Thing
+4,0:5:34,0:5:36,334,My move: Rook to knight six.,The Thing
+5,0:5:37,0:5:39,337,Checkmate. Checkmate.,The Thing
+6,0:5:45,0:5:47,345,You cheating bitch.,The Thing
+7,0:6:50,0:6:54,410," Childs, what's he doing?  Circling the camp.",The Thing
+8,0:6:55,0:6:57,415,Who is he?,The Thing
+9,0:6:57,0:7:0,417," Said ""Norge"" or something on the side.  It's Norwegian.",The Thing
+10,0:9:5,0:9:7,545," George, are you okay?  Yeah, yeah, I'm okay.",The Thing
+11,0:9:7,0:9:10,547, Are you?  Yeah. What's going on there?,The Thing
+12,0:9:32,0:9:33,572,Watch it.,The Thing
+13,0:9:58,0:9:59,598,Easy.,The Thing
+14,0:9:59,0:10:3,599,"Easy, easy, easy. Yes.",The Thing
+15,0:10:15,0:10:18,615,First goddamn week of winter.,The Thing
+16,0:10:27,0:10:32,627,"Oh, come on. Four stitches. Barely grazed you.",The Thing
+17,0:10:33,0:10:38,633,"What were they doing flying that low, shooting at a dog, at us?",The Thing
+18,0:10:38,0:10:42,638,Stircrazy. Cabin fever. Who knows?,The Thing
+19,0:10:43,0:10:47,643,"U.S. Number 31, calling McMurdo. Come in. Over.",The Thing
+20,0:10:49,0:10:54,649,"U.S. Number 31, calling McMurdo. Urgent. Come in. Over.",The Thing
+21,0:10:56,0:10:57,656,Great.,The Thing
+22,0:10:57,0:11:0,657," Come on, come on.  Nobody!",The Thing
+23,0:11:0,0:11:2,660,Nobody. Get a hold of somebody.,The Thing
+24,0:11:2,0:11:4,662,Get a hold of anybody. We gotta report this mess.,The Thing
+25,0:11:4,0:11:7,664,"Look, I haven't been able to reach shit in two weeks.",The Thing
+26,0:11:8,0:11:11,668,"I doubt if anybody's talked to anybody on this entire continent,",The Thing
+27,0:11:11,0:11:13,671,and you want me to reach somebody!,The Thing
+28,0:11:25,0:11:26,685,Maybe we're at war with Norway.,The Thing
+29,0:11:31,0:11:36,691,I was wondering when the El Capitan was gonna get a chance to use his popgun.,The Thing
+30,0:11:40,0:11:44,700, How long have they been stationed there?  It says here only eight weeks.,The Thing
+31,0:11:44,0:11:46,704,"Well, that's not long enough for guys to go bonkers.",The Thing
+32,0:11:46,0:11:49,706,"Bullshit, bwana. Five minutes is enough to put a man over down here.",The Thing
+33,0:11:49,0:11:50,709,Damn straight.,The Thing
+34,0:11:50,0:11:54,710,"I mean, look at Palmer. He been the way he is since the first day.",The Thing
+35,0:11:55,0:11:56,715,How many in their party?,The Thing
+36,0:11:57,0:11:59,717,They started with 10. There'd be eight others left.,The Thing
+37,0:11:59,0:12:3,719,How do we know? Guys as crazy as that could have done a lot of damage,The Thing
+38,0:12:3,0:12:4,723,to their own before they got to us.,The Thing
+39,0:12:4,0:12:7,724," Nothing we can do about that.  Yes, there is. I wanna go up.",The Thing
+40,0:12:7,0:12:9,727, In this weather?  Bennings?,The Thing
+41,0:12:9,0:12:11,729,Winds are gonna let up a tad next couple of hours.,The Thing
+42,0:12:11,0:12:13,731,A tad?,The Thing
+43,0:12:13,0:12:17,733,"Can't condone it much myself, but it is a short haul.",The Thing
+44,0:12:17,0:12:19,737,"An hour there, an hour back.",The Thing
+45,0:12:21,0:12:24,741,"Shit, Doc, I'll give you the lift. No problem.",The Thing
+46,0:12:24,0:12:28,744," Forget it, Palmer.  Hey, thanks for thinking about it though.",The Thing
+47,0:12:32,0:12:34,752,Loaded with kerosene. I count 15 cans.,The Thing
+48,0:12:35,0:12:38,755,"MacReady! Mac, get your gear on!",The Thing
+49,0:12:48,0:12:51,768," Mac, it may not clear up for a week.  Yeah.",The Thing
+50,0:12:51,0:12:53,771," We're the closest ones to them.  It's all right by me, Doc.",The Thing
+51,0:12:53,0:12:56,773,I'm just letting you know we're taking a chance.,The Thing
+52,0:12:56,0:12:58,776,"Quit the griping, MacReady.",The Thing
+53,0:12:58,0:13:0,778,"Those clouds keep moving over the sun, we're gonna get a whiteout.",The Thing
+54,0:13:0,0:13:2,780,"We get caught in that, you can scratch one doctor and one pilot.",The Thing
+55,0:13:3,0:13:5,783,This is real thin. It'll clear as soon as you get up.,The Thing
+56,0:13:8,0:13:12,788,"It's up to you, Mac. If you don't wanna fly, we don't fly.",The Thing
+57,0:13:13,0:13:15,793,"You really wanna save those crazy Swedes, huh?",The Thing
+58,0:13:15,0:13:16,795,Norwegians.,The Thing
+59,0:13:16,0:13:18,796," Which way, Doc?  Southwest.",The Thing
+60,0:13:18,0:13:21,798,You're gonna have to read the map. 'Cause I'm gonna be busy.,The Thing
+61,0:13:28,0:13:30,808,"Mac's really taking it up, huh?",The Thing
+62,0:13:32,0:13:33,812,He knows what he's doing.,The Thing
+63,0:14:36,0:14:38,876,"Nauls, will you turn that crap down?",The Thing
+64,0:14:38,0:14:41,878,I'm trying to get some sleep. I was shot today.,The Thing
+65,0:14:42,0:14:44,882,"Read, bwana. Will do.",The Thing
+66,0:14:46,0:14:48,886,Writing's on the wall,The Thing
+67,0:14:51,0:14:53,891,Very superstitious,The Thing
+68,0:17:10,0:17:11,1030,Anybody there?,The Thing
+69,0:17:13,0:17:14,1033,"Hey, Sweden!",The Thing
+70,0:17:14,0:17:17,1034,"They're not Swedish, Mac. They're Norwegian.",The Thing
+71,0:18:41,0:18:42,1121,Mac!,The Thing
+72,0:19:18,0:19:20,1158,My God. What the hell happened here?,The Thing
+73,0:19:23,0:19:24,1163,"Come on, Doc.",The Thing
+74,0:20:3,0:20:8,1203, Portable video unit. Anything?  It's all in Norwegian.,The Thing
+75,0:20:14,0:20:16,1214,"What are you doing, Doc?",The Thing
+76,0:20:16,0:20:17,1216,Could be important work. I wanna take it back.,The Thing
+77,0:20:17,0:20:20,1217,"Well, it's getting late. Let's hurry it up.",The Thing
+78,0:20:20,0:20:22,1220,I'll check out the last few rooms.,The Thing
+79,0:20:41,0:20:43,1241,"Hey, Copper, come here!",The Thing
+80,0:21:26,0:21:28,1286,"Maybe they found a fossil,",The Thing
+81,0:21:28,0:21:31,1288,"the remains of some animal buried in the ice, and they chopped it out.",The Thing
+82,0:21:31,0:21:33,1291, But where is it?  Look at this.,The Thing
+83,0:21:48,0:21:49,1308,What is that?,The Thing
+84,0:21:51,0:21:53,1311,Is that a man in there or something?,The Thing
+85,0:21:55,0:21:58,1315,"Whatever it is, they burned it up in a hurry.",The Thing
+86,0:22:0,0:22:2,1320,"Help me find a shovel, Doc.",The Thing
+87,0:22:59,0:23:0,1379,We found this.,The Thing
+88,0:23:1,0:23:2,1381,Jesus Christ.,The Thing
+89,0:23:28,0:23:31,1408,"Blair, I'd like you to start an autopsy right away.",The Thing
+90,0:24:32,0:24:34,1472,Did you reach anybody yet?,The Thing
+91,0:24:34,0:24:38,1474,"Reach anybody? We're a thousand miles from nowhere, man,",The Thing
+92,0:24:38,0:24:40,1478,and it's gonna get worse before it gets better.,The Thing
+93,0:24:40,0:24:43,1480,"Well, stick to it, Windows. Stick to it.",The Thing
+94,0:24:48,0:24:51,1488,"Nothing wrong with this Norwegian, physiologically anyway.",The Thing
+95,0:24:52,0:24:54,1492,"No drugs, no alcohol. Nothing.",The Thing
+96,0:25:18,0:25:21,1518,"Well, what we got here is what appears to be, anyway,",The Thing
+97,0:25:21,0:25:24,1521,a normal set of internal organs.,The Thing
+98,0:25:26,0:25:27,1526,"Heart,",The Thing
+99,0:25:28,0:25:30,1528,"lungs, kidneys, liver.",The Thing
+100,0:25:32,0:25:33,1532,Intestines.,The Thing
+101,0:25:37,0:25:39,1537,Seem to be normal.,The Thing
+102,0:25:56,0:25:59,1556,"One, door number two and door number three.",The Thing
+103,0:25:59,0:26:3,1559,And I think that Dawn Screen here has got the one to trade in the most.,The Thing
+104,0:26:3,0:26:5,1563,I went to you first. You brought your friend Anna.,The Thing
+105,0:26:5,0:26:8,1565,You've been consulting Anna all through the show anyhow.,The Thing
+106,0:26:8,0:26:9,1568,You may as well consult her one more time.,The Thing
+107,0:26:9,0:26:11,1569,I know how this one ends.,The Thing
+108,0:26:48,0:26:51,1608,"Clark, will you put this mutt with the others where he belongs?",The Thing
+109,0:26:54,0:26:55,1614,"Yeah, okay.",The Thing
+110,0:27:16,0:27:17,1636,Go ahead.,The Thing
+111,0:27:21,0:27:23,1641,Go ahead. What are you waiting for?,The Thing
+112,0:30:15,0:30:18,1815,"I don't know what the hell's in there, but it's weird and pissed off, whatever it is.",The Thing
+113,0:30:18,0:30:20,1818,"Bennings, go get Childs.",The Thing
+114,0:30:20,0:30:22,1820,What is this? What's going on?,The Thing
+115,0:30:22,0:30:25,1822," Hey, Palmer, what is this?  I don't know.",The Thing
+116,0:30:25,0:30:28,1825," Childs, Mac wants the flamethrower!  Mac wants the what?",The Thing
+117,0:30:28,0:30:31,1828," That's what he said. Now, move!  Damn it.",The Thing
+118,0:30:44,0:30:46,1844," Stay back.  Hey, Mac, what is it?",The Thing
+119,0:31:34,0:31:37,1894, Don't! No!  Get away!,The Thing
+120,0:31:37,0:31:39,1897,Get back! Get back!,The Thing
+121,0:32:4,0:32:6,1924,Get your ass over here!,The Thing
+122,0:32:8,0:32:9,1928,Burn it.,The Thing
+123,0:32:13,0:32:15,1933,"Damn it, Childs. Torch it!",The Thing
+124,0:33:37,0:33:38,2017,"Oh, my God.",The Thing
+125,0:33:45,0:33:49,2025,Oh!,The Thing
+126,0:33:54,0:33:57,2034,Look. Son of a bitch. Oh.,The Thing
+127,0:34:14,0:34:16,2054,"You see, what we're talking about here is an organism",The Thing
+128,0:34:16,0:34:20,2056,"that imitates other lifeforms, and it imitates them perfectly.",The Thing
+129,0:34:20,0:34:23,2060,"When this thing attacked our dogs, it tried to digest them,",The Thing
+130,0:34:23,0:34:25,2063,"absorb them,",The Thing
+131,0:34:26,0:34:29,2066,"and in the process, shape its own cells to imitate them.",The Thing
+132,0:34:32,0:34:36,2072,"This, for instance... that's not dog.",The Thing
+133,0:34:38,0:34:42,2078,It's imitation. We got to it before it had time to finish.,The Thing
+134,0:34:44,0:34:45,2084,Finish what?,The Thing
+135,0:34:46,0:34:49,2086,Finish imitating these dogs.,The Thing
+136,0:34:56,0:34:59,2096,"Easy, easy. Good.",The Thing
+137,0:35:2,0:35:4,2102,"Easy, easy.",The Thing
+138,0:35:10,0:35:11,2110, Clark.  Yeah?,The Thing
+139,0:35:12,0:35:15,2112,"Did you notice anything strange about the dog, anything at all?",The Thing
+140,0:35:15,0:35:17,2115,Strange? No.,The Thing
+141,0:35:19,0:35:22,2119,What was the dog doing in the rec room?,The Thing
+142,0:35:22,0:35:23,2122,I don't know.,The Thing
+143,0:35:23,0:35:26,2123,He was just wandering around camp all day.,The Thing
+144,0:35:28,0:35:32,2128,Are you saying to me the dog wasn't put in the kennel until last night?,The Thing
+145,0:35:33,0:35:34,2133,Right.,The Thing
+146,0:35:36,0:35:38,2136,How long were you alone with that dog?,The Thing
+147,0:35:38,0:35:42,2138,"I don't know. An hour. Hour and a half, maybe.",The Thing
+148,0:35:44,0:35:47,2144,What the hell you looking at me like that for?,The Thing
+149,0:35:50,0:35:52,2150, I don't know.  What?,The Thing
+150,0:35:53,0:35:55,2153,I don't know. It's probably nothing.,The Thing
+151,0:35:58,0:36:0,2158,It's nothing at all.,The Thing
+152,0:36:11,0:36:13,2171,How much more of this crap is there?,The Thing
+153,0:36:13,0:36:15,2173,"Oh, about nine hours, I'd say.",The Thing
+154,0:36:16,0:36:20,2176, We can't learn anything from this.  Guess not.,The Thing
+155,0:36:31,0:36:33,2191,Where'd they take these shots?,The Thing
+156,0:36:34,0:36:36,2194,Seems like they were spending a lot of their time,The Thing
+157,0:36:36,0:36:39,2196,in a little place northeast of their camp about five or six miles.,The Thing
+158,0:36:39,0:36:40,2199,What's that?,The Thing
+159,0:36:42,0:36:44,2202,It looks like something buried under the ice.,The Thing
+160,0:36:51,0:36:54,2211,And look at that. They're planting thermite charges.,The Thing
+161,0:36:55,0:36:58,2215,"Whatever it was, it was bigger than that block of ice you found.",The Thing
+162,0:37:8,0:37:12,2228,Here. This is it. The place where they were spending most of their time.,The Thing
+163,0:37:12,0:37:15,2232," Pretty nasty out, Mac. 35 knots.  Screw it. I'm gonna go up anyway.",The Thing
+164,0:37:39,0:37:41,2259,Half a mile due east.,The Thing
+165,0:39:19,0:39:22,2359,"Jesus, how long do you figure this has been in the ice?",The Thing
+166,0:39:23,0:39:27,2363,"Well, the backscatter effect's been bringing things up",The Thing
+167,0:39:27,0:39:30,2367,from way down around here for a long time.,The Thing
+168,0:39:30,0:39:35,2370,"I'd say... I'd say the ice it's buried in is 100,000 years old, at least.",The Thing
+169,0:39:38,0:39:40,2378, And those Norwegians blew it up?  Yeah.,The Thing
+170,0:40:10,0:40:11,2410,I don't know.,The Thing
+171,0:40:11,0:40:15,2411,"Thousands of years ago, it crashes, and this thing...",The Thing
+172,0:40:16,0:40:20,2416,"Gets thrown out or crawls out, and it ends up freezing in the ice.",The Thing
+173,0:40:20,0:40:23,2420,I just cannot believe any of this voodoo bullshit.,The Thing
+174,0:40:24,0:40:26,2424,"Childs, it happens all the time, man.",The Thing
+175,0:40:27,0:40:30,2427,They're falling out of the skies like flies.,The Thing
+176,0:40:30,0:40:32,2430,"Government knows all about it. Right, Mac?",The Thing
+177,0:40:32,0:40:35,2432,"Do you believe any of this voodoo bullshit, Blair?",The Thing
+178,0:40:35,0:40:39,2435,"Childs. Childs. Chariots Of The Gods, man.",The Thing
+179,0:40:40,0:40:42,2440,They practically own South America.,The Thing
+180,0:40:42,0:40:45,2442,"I mean, they taught the Incas everything they know.",The Thing
+181,0:40:52,0:40:54,2452,"Come on, now, MacReady.",The Thing
+182,0:40:54,0:40:57,2454,"The Norwegians get a hold of this, and they dig it up out of the ice.",The Thing
+183,0:40:57,0:41:0,2457,"Yes, Garry, they dig it up. They cart it back.",The Thing
+184,0:41:0,0:41:3,2460,"It gets thawed out, wakes up, not in the best of moods.",The Thing
+185,0:41:3,0:41:6,2463, I don't know. I wasn't there.  Which one of you disrespectful men,The Thing
+186,0:41:6,0:41:9,2466,"been tossing his dirty drawers in the kitchen trash can, huh?",The Thing
+187,0:41:10,0:41:13,2470,"From now on I want my kitchen clean, germfree.",The Thing
+188,0:41:13,0:41:16,2473,Now how's this motherfucker wake up after thousands of years in the ice?,The Thing
+189,0:41:17,0:41:19,2477, And how could it look like a dog?  I don't know how.,The Thing
+190,0:41:20,0:41:23,2480,"'Cause it's different than us, see? 'Cause it's from outer space.",The Thing
+191,0:41:23,0:41:25,2483,What do you want from me? Ask him.,The Thing
+192,0:41:30,0:41:32,2490,"You buy any of this, Blair?",The Thing
+193,0:43:33,0:43:37,2613,"Mac, removing those things out of the lab into the storeroom.",The Thing
+194,0:43:37,0:43:39,2617,Can you come get your stuff?,The Thing
+195,0:43:40,0:43:42,2620,"Be there in a minute, Doc.",The Thing
+196,0:43:59,0:44:1,2639,Through the door.,The Thing
+197,0:44:4,0:44:6,2644,Right over here. Right over...,The Thing
+198,0:44:10,0:44:12,2650,"Sorry, Mac. You have to move your stuff...",The Thing
+199,0:44:13,0:44:16,2653,Doc says we gotta lock him up. Stash him in here and lock him up.,The Thing
+200,0:44:17,0:44:19,2657," I have to talk to you.  I'm tired of talking, Fuchs.",The Thing
+201,0:44:19,0:44:21,2659,I just wanna get up to my shack and get drunk.,The Thing
+202,0:44:21,0:44:23,2661," Mac, it's important.  What is it?",The Thing
+203,0:44:25,0:44:27,2665, Outside.  It's 40 below outside.,The Thing
+204,0:44:27,0:44:29,2667,"In the Thiokol. Please, Mac.",The Thing
+205,0:44:45,0:44:49,2685, We ought to just burn these things.  Can't burn the find of the century.,The Thing
+206,0:44:50,0:44:53,2690,That's gonna win somebody the Nobel Prize.,The Thing
+207,0:45:6,0:45:8,2706,You got the keys?,The Thing
+208,0:45:8,0:45:11,2708,Get them from Garry. I wanna get some stuff out of here.,The Thing
+209,0:45:45,0:45:47,2745,There's something wrong with Blair.,The Thing
+210,0:45:47,0:45:50,2747,"He's locked himself in his room, and he won't answer the door.",The Thing
+211,0:45:50,0:45:52,2750,So I took one of his notebooks from the lab.,The Thing
+212,0:45:52,0:45:54,2752, Yeah?  Listen.,The Thing
+213,0:45:56,0:45:59,2756,"""It could have imitated a million lifeforms on a million planets.",The Thing
+214,0:45:59,0:46:2,2759,"""Could change into any one of them at any time.",The Thing
+215,0:46:2,0:46:3,2762,"""Now it wants lifeforms on Earth.""",The Thing
+216,0:46:3,0:46:5,2763,"It's getting cold in here, and I haven't slept in days.",The Thing
+217,0:46:5,0:46:6,2765,Wait.,The Thing
+218,0:46:6,0:46:10,2766,"""It needs to be alone and in close proximity with a lifeform to be absorbed.",The Thing
+219,0:46:10,0:46:12,2770,"""The chameleon strikes in the dark.""",The Thing
+220,0:46:12,0:46:14,2772," So is Blair cracking up, or what?  Damn it, MacReady.",The Thing
+221,0:46:14,0:46:17,2774,"""There is still cellular activity in these burned remains.",The Thing
+222,0:46:17,0:46:19,2777,"""They're not dead yet.""",The Thing
+223,0:46:30,0:46:33,2790,"Let's go, Bennings. I gotta get some sleep.",The Thing
+224,0:46:52,0:46:54,2812,Holy shit.,The Thing
+225,0:46:59,0:47:1,2819,Go get the doc.,The Thing
+226,0:47:2,0:47:5,2822,I'll get Garry. We'll meet in Blair's room.,The Thing
+227,0:47:11,0:47:13,2831,It's Bennings!,The Thing
+228,0:47:23,0:47:26,2843,"Bennings was right there. Mac, I swear to God. It had a hold of him.",The Thing
+229,0:47:39,0:47:42,2859,Windows! Windows! Keep away from him!,The Thing
+230,0:47:45,0:47:47,2865,Get back! Stay back!,The Thing
+231,0:47:51,0:47:53,2871,It isn't Bennings.,The Thing
+232,0:48:26,0:48:28,2906,"My God, what was happening to him?",The Thing
+233,0:48:28,0:48:31,2908,"If it had more time it would have looked, sounded and acted like Bennings.",The Thing
+234,0:48:31,0:48:33,2911,I don't know what you're saying.,The Thing
+235,0:48:33,0:48:37,2913,"That was one of those things out there trying to imitate him, Garry.",The Thing
+236,0:48:41,0:48:43,2921," Come on.  MacReady, I know Bennings.",The Thing
+237,0:48:43,0:48:46,2923,I've known him for 10 years. He's my friend.,The Thing
+238,0:48:48,0:48:50,2928,We've gotta burn the rest of them.,The Thing
+239,0:49:24,0:49:26,2964,"All right, step back.",The Thing
+240,0:49:51,0:49:53,2991,You sure that's all of them?,The Thing
+241,0:49:53,0:49:57,2993,"We cleaned out the storehouse, the lab. There is nothing left.",The Thing
+242,0:49:58,0:50:0,2998,Where's Blair?,The Thing
+243,0:50:42,0:50:43,3042,I can't find Blair.,The Thing
+244,0:50:44,0:50:46,3044,Where's everybody else?,The Thing
+245,0:50:46,0:50:48,3046,Windows is in the radio room still trying to get through.,The Thing
+246,0:50:48,0:50:50,3048,Everyone else is in the rec room.,The Thing
+247,0:50:51,0:50:53,3051,"Well, you go on. I'll be in in a minute.",The Thing
+248,0:51:17,0:51:18,3077,Blair?,The Thing
+249,0:51:20,0:51:21,3080,Blair?,The Thing
+250,0:52:20,0:52:23,3140,Don't! You son of a bitch. You understand me?,The Thing
+251,0:52:24,0:52:27,3144," He's got a gun. Get back.  Anybody interferes, I'll kill them.",The Thing
+252,0:52:27,0:52:29,3147, Jesus.  Just leave it here. We're gonna talk.,The Thing
+253,0:52:29,0:52:30,3149,He smashed up some of the chopper pretty good.,The Thing
+254,0:52:30,0:52:32,3150,Nobody talk to nobody!,The Thing
+255,0:52:32,0:52:34,3152,"Childs, go see if he got to the tractor.",The Thing
+256,0:52:35,0:52:39,3155,Nobody gets in and out of here. Nobody.,The Thing
+257,0:52:44,0:52:49,3164,"You guys think I'm crazy. Well, that's fine.",The Thing
+258,0:52:50,0:52:53,3170,Most of you don't know what's going on around here.,The Thing
+259,0:52:53,0:52:57,3173,"Well, I'm damn well sure some of you do.",The Thing
+260,0:52:58,0:52:59,3178,Christ.,The Thing
+261,0:53:3,0:53:6,3183,"He got most of the chopper and the tractor, and he's killed the rest of the dogs.",The Thing
+262,0:53:10,0:53:12,3190,"Garry, wait a minute, wait a minute.",The Thing
+263,0:53:13,0:53:17,3193,"Now, Childs, go around to the map room door. Talk to him.",The Thing
+264,0:53:18,0:53:19,3198,Okay.,The Thing
+265,0:53:20,0:53:22,3200,"Norris, get a table from the lab.",The Thing
+266,0:53:25,0:53:28,3205,Do you think that thing wanted to be an animal?,The Thing
+267,0:53:28,0:53:31,3208,No dogs make it a thousand miles through the cold.,The Thing
+268,0:53:35,0:53:37,3215,"Nah, you don't understand!",The Thing
+269,0:53:38,0:53:40,3218,That thing wanted to be us.,The Thing
+270,0:53:41,0:53:43,3221,If the cell gets out,The Thing
+271,0:53:43,0:53:45,3223,it could imitate everything on the face of the earth,The Thing
+272,0:53:46,0:53:48,3226," and it's not gonna stop!  Okay, Blair.",The Thing
+273,0:53:49,0:53:52,3229,"Come on, man, you don't wanna hurt anybody.",The Thing
+274,0:53:52,0:53:54,3232,I'll kill you.,The Thing
+275,0:54:20,0:54:22,3260,"Good shot, MacReady.",The Thing
+276,0:54:22,0:54:23,3262, Excuse me.  Okay.,The Thing
+277,0:54:23,0:54:25,3263," All right, bring him up.  Yeah.",The Thing
+278,0:54:46,0:54:47,3286,"Come on, Blair.",The Thing
+279,0:54:53,0:54:55,3293,What about your shack?,The Thing
+280,0:54:55,0:54:58,3295,I don't want him in my shack. We'll lock him in the toolshed.,The Thing
+281,0:55:2,0:55:6,3302," Why am I in here?  For your own protection, Blair.",The Thing
+282,0:55:21,0:55:23,3321,"How you doing, old boy?",The Thing
+283,0:55:27,0:55:29,3327,I don't know who to trust.,The Thing
+284,0:55:30,0:55:33,3330,"I know what you mean, Blair.",The Thing
+285,0:55:34,0:55:37,3334,Trust's a tough thing to come by these days.,The Thing
+286,0:55:39,0:55:42,3339,Tell you what. Why don't you just trust in the Lord?,The Thing
+287,0:55:45,0:55:47,3345, Watch Clark.  What?,The Thing
+288,0:55:49,0:55:52,3349,"I said, watch Clark.",The Thing
+289,0:55:53,0:55:55,3353,And watch him close. Do you hear me?,The Thing
+290,0:56:14,0:56:16,3374,And now the radio's gone.,The Thing
+291,0:56:16,0:56:19,3376, And so are the choppers.  We're completely cut off.,The Thing
+292,0:56:19,0:56:22,3379,"All we can do now is hole up 'til spring, wait for the rescue team.",The Thing
+293,0:56:23,0:56:24,3383,"No, we don't wait.",The Thing
+294,0:56:25,0:56:27,3385,Somebody in this camp ain't what he appears to be.,The Thing
+295,0:56:27,0:56:31,3387,"Right now that may be one or two of us. By spring, it could be all of us.",The Thing
+296,0:56:31,0:56:33,3391,So how do we know who's human?,The Thing
+297,0:56:34,0:56:37,3394,"If I was an imitation, a perfect imitation,",The Thing
+298,0:56:38,0:56:40,3398,how would you know if it was really me?,The Thing
+299,0:56:46,0:56:48,3406,"Is there some kind of test, Doc?",The Thing
+300,0:56:48,0:56:52,3408,"Well, yeah, possibly. I've been thinking about a blood serum test.",The Thing
+301,0:56:52,0:56:54,3412,What's that?,The Thing
+302,0:56:54,0:56:59,3414,"We could take a sample of each person's blood, mix it with uncontaminated blood.",The Thing
+303,0:56:59,0:57:2,3419,"I suppose if there's a reaction, we'd know who isn't human.",The Thing
+304,0:57:2,0:57:6,3422, We've got whole blood in storage.  Start working on it.,The Thing
+305,0:57:7,0:57:8,3427,Keep an eye on Clark.,The Thing
+306,0:57:9,0:57:11,3429,He was close to that dog.,The Thing
+307,0:57:12,0:57:13,3432, Yeah.  Yeah.,The Thing
+308,0:57:18,0:57:23,3438,"Mac, we need Blair's help. He's the only one who knows this organism.",The Thing
+309,0:57:23,0:57:24,3443,He's too far gone.,The Thing
+310,0:57:24,0:57:27,3444,But get the rest of his notebooks. Start going through them.,The Thing
+311,0:57:40,0:57:42,3460,"Garry! Hey, you guys, come here!",The Thing
+312,0:57:45,0:57:47,3465, What?  Somebody got to the blood.,The Thing
+313,0:57:48,0:57:49,3468,What?,The Thing
+314,0:57:49,0:57:51,3469, Where's Clark?  Right here.,The Thing
+315,0:57:52,0:57:56,3472, Wait a minute. Was this broken into?  The lock is undamaged.,The Thing
+316,0:57:56,0:57:58,3476,"Somebody opened it, closed it, then locked it.",The Thing
+317,0:57:58,0:57:59,3478,Great.,The Thing
+318,0:57:59,0:58:1,3479,Who's got access to it?,The Thing
+319,0:58:6,0:58:8,3486,I guess I'm the only one.,The Thing
+320,0:58:8,0:58:10,3488,And I got the only key.,The Thing
+321,0:58:14,0:58:18,3494," Would that test have worked, Doc?  I think so, yes.",The Thing
+322,0:58:18,0:58:20,3498,Somebody else sure as hell thought so.,The Thing
+323,0:58:20,0:58:23,3500,"Well, who else could've used that key?",The Thing
+324,0:58:23,0:58:27,3503,Nobody! I just give it to Copper whenever he needs it.,The Thing
+325,0:58:27,0:58:30,3507,"Could anybody have gotten it from you, Doc?",The Thing
+326,0:58:30,0:58:34,3510,"I don't see how. As soon as I'm finished, I return it right away.",The Thing
+327,0:58:35,0:58:36,3515,Great.,The Thing
+328,0:58:38,0:58:42,3518, When was the last time you used it?  Day or so ago.,The Thing
+329,0:58:43,0:58:46,3523,I suppose somebody could have lifted it off me...,The Thing
+330,0:58:46,0:58:47,3526,"Oh, come on!",The Thing
+331,0:58:47,0:58:50,3527,That key ring of yours is always hooked to your belt.,The Thing
+332,0:58:51,0:58:53,3531,Accusing everybody...,The Thing
+333,0:58:54,0:58:55,3534,MacREADY: Stop it! It ain't worth it!,The Thing
+334,0:58:55,0:58:57,3535,Copper's the only one who's got any business with it.,The Thing
+335,0:58:57,0:59:0,3537,Wait a minute! You've been in here on several occasions.,The Thing
+336,0:59:0,0:59:1,3540,Doc thought of the test.,The Thing
+337,0:59:1,0:59:4,3541,So what? Is that supposed to clear him?,The Thing
+338,0:59:5,0:59:8,3545, Windows!  Windows!,The Thing
+339,0:59:20,0:59:22,3560,Put that down!,The Thing
+340,0:59:22,0:59:25,3562, No.  I'll put this right through your head.,The Thing
+341,0:59:27,0:59:29,3567,You guys gonna listen to Garry?,The Thing
+342,0:59:29,0:59:32,3569,You gonna let him give the orders? He could be one of those things.,The Thing
+343,0:59:32,0:59:33,3572,Windows.,The Thing
+344,0:59:35,0:59:38,3575,Wait a minute. Just take it easy. Put the gun down.,The Thing
+345,0:59:38,0:59:40,3578,Put it down. You don't want to hurt anybody.,The Thing
+346,0:59:40,0:59:41,3580,Right.,The Thing
+347,0:59:42,0:59:43,3582,On the floor.,The Thing
+348,0:59:58,1:0:0,3598,It's on the floor.,The Thing
+349,1:0:6,1:0:8,3606,"I don't know about Copper,",The Thing
+350,1:0:10,1:0:13,3610,"but I give you my word, I did not go near that blood.",The Thing
+351,1:0:21,1:0:24,3621,But I guess you'll all feel a little easier,The Thing
+352,1:0:26,1:0:28,3626,if somebody else was in charge.,The Thing
+353,1:0:29,1:0:32,3629,"Norris, I can't see anybody objecting to you.",The Thing
+354,1:0:36,1:0:38,3636,"I'm sorry, fellas, but I'm not up to it.",The Thing
+355,1:0:39,1:0:41,3639, I'll take it.  Like hell you will.,The Thing
+356,1:0:42,1:0:46,3642,"It should be somebody a little more eventempered, Childs.",The Thing
+357,1:0:56,1:0:57,3656,MacREADY: All right.,The Thing
+358,1:1:20,1:1:22,3680,MacREADY: I know I'm human.,The Thing
+359,1:1:26,1:1:29,3686,"And if you were all these things, then you'd just attack me right now.",The Thing
+360,1:1:29,1:1:32,3689,So some of you are still human.,The Thing
+361,1:1:33,1:1:37,3693,This thing doesn't want to show itself. It wants to hide inside an imitation.,The Thing
+362,1:1:39,1:1:41,3699,It'll fight if it has to.,The Thing
+363,1:1:41,1:1:43,3701,But it's vulnerable out in the open.,The Thing
+364,1:1:44,1:1:46,3704,"If it takes us over,",The Thing
+365,1:1:48,1:1:50,3708,"then it has no more enemies,",The Thing
+366,1:1:51,1:1:53,3711,nobody left to kill it.,The Thing
+367,1:1:54,1:1:56,3714,And then it's won.,The Thing
+368,1:1:59,1:2:2,3719,There's a storm hitting us in six hours.,The Thing
+369,1:2:2,1:2:5,3722,We're gonna find out who's who.,The Thing
+370,1:2:5,1:2:10,3725,"All right, Doc, Garry and Clark, move over there away from the others.",The Thing
+371,1:2:21,1:2:24,3741,"Norris, you and Childs shoot them up with morphine.",The Thing
+372,1:2:24,1:2:26,3744,Tie them down in the rec room and watch them.,The Thing
+373,1:2:26,1:2:27,3746,"Fuchs, you start working on a new technique.",The Thing
+374,1:2:28,1:2:30,3748, I need Doc's help.  You don't wanna drug me.,The Thing
+375,1:2:31,1:2:33,3751,"Mac, I'm not a prisoner!",The Thing
+376,1:2:54,1:2:56,3774,Let me do it. You're gonna break the needle in my arm.,The Thing
+377,1:2:57,1:2:59,3777,"No, Doc, he's doing a real fine job.",The Thing
+378,1:3:8,1:3:11,3788,I'm gonna hide this tape when I'm finished.,The Thing
+379,1:3:12,1:3:16,3792,"If none of us make it, at least there'll be some kind of record.",The Thing
+380,1:3:16,1:3:19,3796,Storm's been hitting us hard now for 48 hours.,The Thing
+381,1:3:20,1:3:22,3800,We still have nothing to go on.,The Thing
+382,1:3:34,1:3:38,3814,"One other thing, I think it rips through your clothes",The Thing
+383,1:3:38,1:3:40,3818,when it takes you over.,The Thing
+384,1:3:41,1:3:45,3821,"Windows found some shredded long johns, but the name tag was missing.",The Thing
+385,1:3:46,1:3:48,3826,They could be anybody's.,The Thing
+386,1:3:50,1:3:51,3830,Nobody...,The Thing
+387,1:3:54,1:3:56,3834,Nobody trusts anybody now.,The Thing
+388,1:3:58,1:4:0,3838,And we're all very tired.,The Thing
+389,1:4:7,1:4:9,3847,Nobody trusts anybody now.,The Thing
+390,1:4:13,1:4:15,3853,There's nothing else I can do.,The Thing
+391,1:4:16,1:4:17,3856,Just wait.,The Thing
+392,1:4:21,1:4:24,3861,"R.J. MacReady, helicopter pilot, U.S. Outpost, number 31.",The Thing
+393,1:4:40,1:4:42,3880,You come up with anything yet?,The Thing
+394,1:4:42,1:4:44,3882,One or two ideas.,The Thing
+395,1:4:48,1:4:50,3888,"But, MacReady, I've been thinking.",The Thing
+396,1:4:50,1:4:54,3890,"If a small particle of this thing is enough to take over an entire organism,",The Thing
+397,1:4:54,1:4:56,3894,then everyone should prepare their own meals.,The Thing
+398,1:4:56,1:4:59,3896,And I suggest we only eat out of cans.,The Thing
+399,1:5:0,1:5:2,3900,All right.,The Thing
+400,1:5:35,1:5:37,3935,Who's that?,The Thing
+401,1:6:14,1:6:16,3974,Anybody see Fuchs?,The Thing
+402,1:6:19,1:6:21,3979,Somebody blew out a fuse in the lab.,The Thing
+403,1:6:21,1:6:24,3981,Lights were out for an hour. Anyone of us could've gotten to him.,The Thing
+404,1:6:25,1:6:26,3985,"All right, we gotta find him.",The Thing
+405,1:6:26,1:6:30,3986,"Nauls, why don't you come with me and we'll look outside.",The Thing
+406,1:6:30,1:6:32,3990,"Palmer, you and Windows check the inside.",The Thing
+407,1:6:32,1:6:34,3992,I ain't going with Windows.,The Thing
+408,1:6:35,1:6:38,3995,I ain't going with him. I'll go with Childs.,The Thing
+409,1:6:39,1:6:41,3999," Hey, fuck you, Palmer!  I ain't going with you!",The Thing
+410,1:6:41,1:6:44,4001, Who says I want you going with me?  Cut the bullshit!,The Thing
+411,1:6:47,1:6:50,4007,"Windows, you come with us. Norris, you stay here.",The Thing
+412,1:6:50,1:6:53,4010,"Any of them move, you fry them. You hear anything, cut loose on the sirens.",The Thing
+413,1:6:53,1:6:57,4013,We all meet back here in 20 minutes regardless.,The Thing
+414,1:6:57,1:7:1,4017,And everybody watch whoever you're with... real close.,The Thing
+415,1:7:24,1:7:25,4044,"Hey, Blair.",The Thing
+416,1:7:28,1:7:30,4048,"Blair, have you seen Fuchs?",The Thing
+417,1:7:33,1:7:37,4053,I don't wanna stay out here anymore. I wanna come back inside.,The Thing
+418,1:7:41,1:7:43,4061,I hear funny things out here.,The Thing
+419,1:7:43,1:7:46,4063, Have you come across Fuchs?  It ain't Fuchs.,The Thing
+420,1:7:50,1:7:51,4070,It ain't Fuchs.,The Thing
+421,1:7:53,1:7:56,4073,I'm not gonna harm anybody. There's nothing wrong with me.,The Thing
+422,1:7:56,1:7:59,4076,"And if there was, I'm all better now. I'd like to come back inside.",The Thing
+423,1:7:59,1:8:1,4079,Now you've got my promise.,The Thing
+424,1:8:4,1:8:5,4084,We'll see.,The Thing
+425,1:8:7,1:8:9,4087,"Wait a minute, man.",The Thing
+426,1:8:10,1:8:13,4090,"I wanna come back inside, don't you understand?",The Thing
+427,1:8:14,1:8:18,4094,I'm all right. I'm much better... and I won't harm anybody.,The Thing
+428,1:8:18,1:8:21,4098,You gotta let me come back inside.,The Thing
+429,1:8:27,1:8:29,4107,Hold it!,The Thing
+430,1:8:44,1:8:46,4124,Is it Fuchs?,The Thing
+431,1:8:53,1:8:54,4133,Yeah.,The Thing
+432,1:8:55,1:8:57,4135,Why would it burn him?,The Thing
+433,1:8:58,1:9:1,4138,Flare. Maybe he tried to burn it.,The Thing
+434,1:9:5,1:9:8,4145,Maybe he burned himself before it could get to him.,The Thing
+435,1:9:15,1:9:18,4155,Great! Now what are we gonna do?,The Thing
+436,1:9:20,1:9:22,4160,You go inside. Tell the others we found Fuchs.,The Thing
+437,1:9:22,1:9:25,4162,We'll be in as soon as we can.,The Thing
+438,1:9:25,1:9:27,4165, Where are we going?  Up to my shack.,The Thing
+439,1:9:27,1:9:28,4167,What the hell for?,The Thing
+440,1:9:28,1:9:32,4168,"'Cause when I left yesterday, I turned the lights off.",The Thing
+441,1:9:55,1:9:57,4195,How long have they been out there?,The Thing
+442,1:9:57,1:9:59,4197,"Forty, 45 minutes.",The Thing
+443,1:10:0,1:10:3,4200,We better start closing off the outside doors.,The Thing
+444,1:10:35,1:10:37,4235,"Hey! All of you, come here!",The Thing
+445,1:10:53,1:10:57,4253,Open up! Open up this door! Open up! Open up!,The Thing
+446,1:11:0,1:11:2,4260,Close that door.,The Thing
+447,1:11:4,1:11:6,4264,Where's MacReady?,The Thing
+448,1:11:7,1:11:9,4267,I cut him loose of the line up by his shack.,The Thing
+449,1:11:9,1:11:11,4269, Cut him loose?  Yeah.,The Thing
+450,1:11:11,1:11:14,4271,"We were up checking around his place, I found this.",The Thing
+451,1:11:16,1:11:20,4276,Look. It was stashed in his oil furnace.,The Thing
+452,1:11:20,1:11:23,4280,"Wind must've dislodged it, but I don't think he saw me find it.",The Thing
+453,1:11:24,1:11:27,4284,I made sure I got ahead of him on the towline on the way back.,The Thing
+454,1:11:27,1:11:29,4287,I cut him loose.,The Thing
+455,1:11:29,1:11:31,4289, MacReady?  He's one of them.,The Thing
+456,1:11:32,1:11:34,4292, When do you think it got to him?  I don't know.,The Thing
+457,1:11:34,1:11:36,4294,"It could've been anytime, anywhere.",The Thing
+458,1:11:37,1:11:38,4297,If it did get to him.,The Thing
+459,1:11:39,1:11:40,4299,"Look, Childs, come on.",The Thing
+460,1:11:40,1:11:42,4300, When the lights went out.  That would've been perfect.,The Thing
+461,1:11:42,1:11:46,4302,"Right. You said guys were missing. Windows, where were you?",The Thing
+462,1:11:46,1:11:47,4306,I told you to shut your mouth!,The Thing
+463,1:11:49,1:11:52,4309,This is just what it wants! To pit us against each other.,The Thing
+464,1:11:59,1:12:1,4319, Let's open it.  Hell no!,The Thing
+465,1:12:1,1:12:3,4321,You think he's changed into one of those things?,The Thing
+466,1:12:3,1:12:4,4323,He's had time.,The Thing
+467,1:12:4,1:12:7,4324,Nothing human could've made it back here in this weather without a guide line.,The Thing
+468,1:12:7,1:12:9,4327, Let's open it now.  Why are you so anxious to let him in here?,The Thing
+469,1:12:9,1:12:10,4329,Because it's so close.,The Thing
+470,1:12:10,1:12:13,4330, May be our best chance to blow it away.  Let him freeze.,The Thing
+471,1:12:14,1:12:16,4334,"Childs, what if we're wrong about him?",The Thing
+472,1:12:17,1:12:19,4337,"Well, then, we're wrong!",The Thing
+473,1:12:20,1:12:22,4340,The supply window!,The Thing
+474,1:12:22,1:12:26,4342,"All right, all right, we got no choice now!",The Thing
+475,1:12:29,1:12:31,4349,Damn it! He's got the keys!,The Thing
+476,1:12:31,1:12:33,4351,What's going on? The towline snapped.,The Thing
+477,1:12:33,1:12:37,4353,"Bullshit, Childs. He's got to know damn well I cut it!",The Thing
+478,1:12:40,1:12:41,4360,"You're a dead man, MacReady!",The Thing
+479,1:12:43,1:12:46,4363,Or a dead whatever the hell you are!,The Thing
+480,1:12:55,1:12:58,4375,Anyone messes with me and the whole camp goes.,The Thing
+481,1:13:0,1:13:2,4380,"Come on, Childs, burn me.",The Thing
+482,1:13:3,1:13:6,4383,Put those torches on the floor and back off.,The Thing
+483,1:13:14,1:13:17,4394,Back off. Way off.,The Thing
+484,1:13:27,1:13:29,4407, You asshole.  You'd have done the same thing.,The Thing
+485,1:13:30,1:13:31,4410,Don't argue with him.,The Thing
+486,1:13:33,1:13:34,4413,Where's the rest?,The Thing
+487,1:13:39,1:13:41,4419,"Come on, man, I mean it!",The Thing
+488,1:13:41,1:13:43,4421,"It's cool, MacReady, come on.",The Thing
+489,1:13:43,1:13:45,4423,"Yeah. Yeah, man, just relax.",The Thing
+490,1:13:46,1:13:49,4426,Anybody touches me... and we go.,The Thing
+491,1:14:2,1:14:5,4442, He's not breathing!  Go untie the doc.,The Thing
+492,1:14:7,1:14:10,4447,Get him in here. And bring the others.,The Thing
+493,1:14:14,1:14:16,4454,"From now on, nobody gets out of my sight.",The Thing
+494,1:14:26,1:14:27,4466,Let me at him.,The Thing
+495,1:14:33,1:14:37,4473,"So, you sweethearts were about to have a little lynching party, huh?",The Thing
+496,1:14:38,1:14:42,4478,"I might just have to put an end to you on general principles, Nauls.",The Thing
+497,1:14:42,1:14:45,4482,Did it ever occur to the jury that anybody could've gotten some of my clothes,The Thing
+498,1:14:45,1:14:48,4485, and stuck them up the furnace?  We ain't buying that.,The Thing
+499,1:14:48,1:14:52,4488,"Quit that bickering over there! Windows, wheel that defibrillator over here.",The Thing
+500,1:14:53,1:14:54,4493,Give me those paddles!,The Thing
+501,1:14:55,1:14:57,4495,"You're gonna have to sleep sometime, MacReady.",The Thing
+502,1:14:57,1:15:0,4497,"I'm a real light sleeper, Childs.",The Thing
+503,1:15:2,1:15:5,4502,If anyone tries to wake me...,The Thing
+504,1:15:9,1:15:10,4509,Clear!,The Thing
+505,1:15:18,1:15:19,4518, Clear!  Clear.,The Thing
+506,1:16:18,1:16:22,4578," We're on fire, MacReady! We're on fire!  Get back! Just wait!",The Thing
+507,1:16:30,1:16:32,4590,"All right, go!",The Thing
+508,1:16:53,1:16:55,4613,"Windows! Windows, get in here!",The Thing
+509,1:17:21,1:17:24,4641,You gotta be fucking kidding.,The Thing
+510,1:17:44,1:17:46,4664," What do you got in mind, MacReady?  A little test.",The Thing
+511,1:17:46,1:17:50,4666,"And, Windows, you and Palmer, tie everybody down real tight.",The Thing
+512,1:17:50,1:17:52,4670, What for?  For your health.,The Thing
+513,1:17:52,1:17:55,4672,Let's rush him! He's not gonna blow us all up!,The Thing
+514,1:17:59,1:18:1,4679,"No, no, wait a minute. Wait a minute.",The Thing
+515,1:18:2,1:18:4,4682,Let's do what Mac says.,The Thing
+516,1:18:5,1:18:9,4685,"I mean, he wasted Norris pretty quick, didn't he?",The Thing
+517,1:18:9,1:18:10,4689,"That's close enough, Clark.",The Thing
+518,1:18:10,1:18:12,4690,He ain't tying me up.,The Thing
+519,1:18:12,1:18:15,4692,"Then I'll have to kill you, Childs.",The Thing
+520,1:18:15,1:18:17,4695,Then kill me.,The Thing
+521,1:18:26,1:18:27,4706,I mean it.,The Thing
+522,1:18:34,1:18:36,4714,I guess you do.,The Thing
+523,1:18:48,1:18:50,4728,"Geez. This is bullshit, Mac!",The Thing
+524,1:18:50,1:18:53,4730," Finish it, Palmer.  They're dead, Mac!",The Thing
+525,1:18:58,1:19:0,4738, Windows?  Yo?,The Thing
+526,1:19:2,1:19:4,4742,You tie up Palmer over here.,The Thing
+527,1:19:8,1:19:11,4748,We're gonna draw a little bit of everybody's blood,The Thing
+528,1:19:14,1:19:16,4754,'cause we're gonna find out who's the thing.,The Thing
+529,1:19:18,1:19:21,4758,Watching Norris in there gave me the idea that,The Thing
+530,1:19:22,1:19:24,4762,maybe every part of him was a whole.,The Thing
+531,1:19:26,1:19:29,4766,Every little piece was an individual animal,The Thing
+532,1:19:29,1:19:33,4769,with a builtin desire to protect its own life.,The Thing
+533,1:19:35,1:19:37,4775,"You see, when a man bleeds,",The Thing
+534,1:19:39,1:19:41,4779,it's just tissue.,The Thing
+535,1:19:43,1:19:47,4783,The blood from one of you things won't obey when it's attacked.,The Thing
+536,1:19:47,1:19:49,4787,It'll try and survive.,The Thing
+537,1:19:51,1:19:54,4791,Crawl away from a hot needle the same.,The Thing
+538,1:20:16,1:20:17,4816,Now you.,The Thing
+539,1:20:41,1:20:42,4841,That's good.,The Thing
+540,1:20:43,1:20:45,4843,"All right, move back, over there.",The Thing
+541,1:21:33,1:21:35,4893,I guess you're okay.,The Thing
+542,1:21:37,1:21:40,4897,All right. Put that on and watch them.,The Thing
+543,1:21:50,1:21:52,4910,Now I'll show you what I already know.,The Thing
+544,1:21:57,1:21:59,4917,It's a crock of shit.,The Thing
+545,1:22:0,1:22:2,4920,Let's try the doc and Clark.,The Thing
+546,1:22:20,1:22:21,4940,Now Clark.,The Thing
+547,1:22:31,1:22:33,4951,"Then Clark was human, huh?",The Thing
+548,1:22:34,1:22:37,4954,"Which makes you a murderer, don't it?",The Thing
+549,1:22:37,1:22:38,4957,Palmer now.,The Thing
+550,1:22:45,1:22:48,4965,This is pure nonsense. It doesn't prove a thing.,The Thing
+551,1:22:49,1:22:51,4969,"I thought you'd feel that way, Garry.",The Thing
+552,1:22:51,1:22:53,4971,You were the only one that could've got to that blood.,The Thing
+553,1:22:53,1:22:55,4973,We'll do you last.,The Thing
+554,1:22:58,1:23:2,4978,"Get him away from me! MacReady, burn it!",The Thing
+555,1:23:4,1:23:5,4984,What is it?,The Thing
+556,1:23:15,1:23:16,4995,Come on!,The Thing
+557,1:23:22,1:23:24,5002,Get me out of here!,The Thing
+558,1:23:30,1:23:32,5010,"Windows, blast him!",The Thing
+559,1:23:35,1:23:38,5015,Get me out of here! Get me out of here!,The Thing
+560,1:24:7,1:24:8,5047,Windows!,The Thing
+561,1:24:29,1:24:31,5069,Get me out of here!,The Thing
+562,1:24:52,1:24:55,5092,"MacReady, get in here! Come on, hurry up!",The Thing
+563,1:24:55,1:24:59,5095,"He's coming back! Burn it! Burn it, for God's sake!",The Thing
+564,1:24:59,1:25:1,5099,"Hurry up, MacReady! Burn it!",The Thing
+565,1:25:35,1:25:36,5135,Let's do it.,The Thing
+566,1:25:50,1:25:53,5150,Get me out of here! Cut me loose!,The Thing
+567,1:25:53,1:25:57,5153,"Cut me the hell... Come on, get me out of here! Come on, get me out of here!",The Thing
+568,1:25:57,1:25:59,5157,"Cut me loose, damn it!",The Thing
+569,1:26:17,1:26:20,5177,"I know you gentlemen have been through a lot,",The Thing
+570,1:26:21,1:26:23,5181,"but when you find the time,",The Thing
+571,1:26:24,1:26:29,5184,I'd rather not spend the rest of this winter tied to this fucking couch!,The Thing
+572,1:26:51,1:26:53,5211,Childs.,The Thing
+573,1:26:53,1:26:56,5213,We're going out to give Blair the test. If he tries to make it back here,The Thing
+574,1:26:56,1:26:59,5216,and we're not with him... burn him.,The Thing
+575,1:27:19,1:27:21,5239,"Mac, the door's open!",The Thing
+576,1:27:36,1:27:39,5256,How'd he get out? The door was bolted from the outside.,The Thing
+577,1:28:24,1:28:25,5304,Blair?,The Thing
+578,1:28:29,1:28:33,5309,"Hey, Blair, you down there? We got something for ya!",The Thing
+579,1:28:44,1:28:47,5324,Blair's been busy out here all by himself.,The Thing
+580,1:28:57,1:28:58,5337,What is it?,The Thing
+581,1:28:59,1:29:1,5339,Something he's been making.,The Thing
+582,1:29:1,1:29:3,5341,It's a ship of some kind.,The Thing
+583,1:29:4,1:29:6,5344,He stole the parts from the helicopter.,The Thing
+584,1:29:6,1:29:9,5346,The smart S.O.B. put it together piece by piece.,The Thing
+585,1:29:11,1:29:13,5351,Where was he trying to go?,The Thing
+586,1:29:14,1:29:16,5354,Anyplace but here.,The Thing
+587,1:29:56,1:29:58,5396,"Hey, you guys, come here. Come here.",The Thing
+588,1:30:5,1:30:9,5405,I think I saw Childs outside the main entrance of the camp.,The Thing
+589,1:30:9,1:30:12,5409, What's he doing outside?  I don't know.,The Thing
+590,1:30:23,1:30:24,5423,Got a flare?,The Thing
+591,1:30:27,1:30:30,5427,He got back inside and blew the generator.,The Thing
+592,1:30:32,1:30:35,5432,"In six hours, it'll be a hundred below in here.",The Thing
+593,1:30:35,1:30:37,5435,"Well, that's suicide!",The Thing
+594,1:30:38,1:30:41,5438,Not for that thing. It wants to freeze now.,The Thing
+595,1:30:42,1:30:44,5442,It's got no way out of here.,The Thing
+596,1:30:44,1:30:47,5444,It just wants to go to sleep in the cold until the rescue team finds it.,The Thing
+597,1:30:49,1:30:51,5449,What can we do? What can we do?,The Thing
+598,1:30:53,1:30:56,5453,"Whether we make it or not, we can't let that thing freeze again.",The Thing
+599,1:30:58,1:31:1,5458,Maybe we'll just warm things up a little around here.,The Thing
+600,1:31:6,1:31:9,5466,We're not getting out of here alive.,The Thing
+601,1:31:11,1:31:12,5471,But neither is that thing.,The Thing
+602,1:33:2,1:33:4,5582,Generator room.,The Thing
+603,1:34:11,1:34:13,5651,The generator's gone.,The Thing
+604,1:34:13,1:34:15,5653,Any way we can fix it?,The Thing
+605,1:34:18,1:34:20,5658,"It's gone, MacReady.",The Thing
+606,1:34:28,1:34:29,5668,All right.,The Thing
+607,1:34:30,1:34:34,5670,We gotta bring this whole place right down into the ice.,The Thing
+608,1:34:34,1:34:37,5674,"Garry, plant yours in the old storage room.",The Thing
+609,1:34:37,1:34:40,5677,"Nauls, down by the generator.",The Thing
+610,1:35:32,1:35:33,5732,God!,The Thing
+611,1:36:43,1:36:45,5803,How's it coming in there?,The Thing
+612,1:36:46,1:36:48,5806,"I said, how's it...",The Thing
+613,1:38:33,1:38:35,5913,"Yeah, fuck you, too!",The Thing
+614,1:40:1,1:40:3,6001,You the only one who made it?,The Thing
+615,1:40:4,1:40:5,6004,Not the only one.,The Thing
+616,1:40:8,1:40:9,6008,Did you kill it?,The Thing
+617,1:40:11,1:40:13,6011,"Where were you, Childs?",The Thing
+618,1:40:14,1:40:16,6014,Thought I saw Blair.,The Thing
+619,1:40:17,1:40:21,6017,I went out after him and got lost in the storm.,The Thing
+620,1:40:32,1:40:35,6032,Fire's got the temperature up all over the camp.,The Thing
+621,1:40:37,1:40:39,6037,"Won't last long, though.",The Thing
+622,1:40:40,1:40:42,6040,Neither will we.,The Thing
+623,1:40:44,1:40:45,6044,How will we make it?,The Thing
+624,1:40:48,1:40:49,6048,Maybe we shouldn't.,The Thing
+625,1:40:55,1:40:56,6055,If you're worried about me...,The Thing
+626,1:40:56,1:40:59,6056,"If we've got any surprises for each other,",The Thing
+627,1:41:1,1:41:4,6061,I don't think we're in much shape to do anything about it.,The Thing
+628,1:41:8,1:41:12,6068,Well... what do we do?,The Thing
+629,1:41:14,1:41:15,6074,Why don't we just...,The Thing
+630,1:41:17,1:41:19,6077,wait here for a little while?,The Thing
+631,1:41:22,1:41:24,6082,See what happens.,The Thing
