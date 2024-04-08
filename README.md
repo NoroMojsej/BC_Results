@@ -11,3 +11,5 @@ Output:
 
 SRT:
   Tento priečinok obsahuje vstupné súbory .srt filmových titulkov. V názvoch jednotlivých súborov je uvedený aj autor daného titulku.
+
+- Matej Lužák, 2024
